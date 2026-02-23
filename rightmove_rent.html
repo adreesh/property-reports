@@ -4,77 +4,124 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Rightmove Rental Report — 23 Feb 2026</title>
-</head>
-<body style="font-family:-apple-system,Arial,sans-serif;background:#f0f2f5;margin:0;padding:20px;color:#333">
-<div style="background:white;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.12);padding:28px;max-width:1100px;margin:0 auto">
+<style>
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,Arial,sans-serif;background:#f0f2f5;margin:0;padding:12px;color:#333}
+  .card{background:white;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.12);
+         padding:20px;max-width:1100px;margin:0 auto}
+  h1{color:#00703c;font-size:20px;margin:0 0 4px;line-height:1.3}
+  .meta{color:#888;font-size:12px;margin:0 0 4px}
+  .meta a{color:#888}
+  .desc{color:#666;font-size:13px;margin:0 0 16px;line-height:1.6}
+  .desc em{font-style:italic}
+  .hint{font-size:11px;color:#aaa}
 
-  <h1 style="color:#00703c;font-size:21px;margin:0 0 4px">
-    🏘️ Rightmove Rental Report &mdash; 23 Feb 2026</h1>
-  <p style="color:#888;font-size:12px;margin:0 0 4px">
-    Updated: 23 Feb 2026 at 19:46 UTC &bull;
-    <a href="#" target="_blank" style="color:#888">View live search on Rightmove</a>
+  /* ── Stat chips ── */
+  .stats{display:flex;gap:10px;margin-bottom:18px;flex-wrap:wrap}
+  .stat{background:#e8f5e9;border-radius:8px;padding:10px 16px;text-align:center;
+         flex:1 1 80px;min-width:75px;max-width:140px}
+  .stat.new-stat{background:#fff8e1;border:2px solid #ffe082}
+  .stat.flat-stat{background:#e3f2fd}
+  .stat-num{font-size:24px;font-weight:700;color:#00703c}
+  .stat.new-stat .stat-num{color:#e65100}
+  .stat.flat-stat .stat-num{color:#1565c0}
+  .stat-lbl{font-size:11px;color:#555;margin-top:2px}
+
+  /* ── Table wrapper: horizontal scroll on small screens ── */
+  .tbl-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -4px}
+  table{border-collapse:collapse;width:100%;font-size:13px;min-width:580px}
+  th{padding:9px 10px;border:1px solid #005a2e;background:#00703c;
+      color:white;white-space:nowrap;font-size:12px}
+  th.addr-col{text-align:left;min-width:170px}
+  td{padding:8px 10px;border:1px solid #e0e0e0;vertical-align:middle}
+  td.addr-td{line-height:1.35}
+  td.num-td{text-align:center;font-weight:700;white-space:nowrap}
+  td.ctr-td{text-align:center}
+
+  /* ── Mobile card view (≤600 px) ── */
+  @media(max-width:600px){
+    body{padding:8px}
+    .card{padding:14px;border-radius:8px}
+    h1{font-size:17px}
+    .desc{font-size:12px}
+    .stats{gap:7px}
+    .stat{padding:8px 10px;min-width:64px}
+    .stat-num{font-size:20px}
+    /* Switch table to card layout */
+    .tbl-wrap{margin:0}
+    table,thead,tbody,tr,th,td{display:block!important}
+    thead tr{display:none!important}  /* hide column headers */
+    tbody tr{
+      background:white;border:1px solid #ddd;border-radius:7px;
+      margin-bottom:10px;padding:10px 12px;
+    }
+    tbody tr[data-new="1"]{background:#fffde7;border-color:#f9a825}
+    td{border:none!important;padding:3px 0;font-size:13px;text-align:left!important}
+    td::before{
+      content:attr(data-label);
+      display:inline-block;width:105px;font-size:11px;
+      color:#888;font-weight:600;text-transform:uppercase;letter-spacing:.4px;
+      flex-shrink:0;
+    }
+    td.addr-td{font-size:14px;font-weight:600;margin-bottom:4px}
+    td.addr-td::before{display:none}
+    td.sect-td{
+      background:#f5f5f5;border-radius:4px;padding:5px 8px!important;
+      font-size:11px;font-weight:700;text-transform:uppercase;
+      letter-spacing:.5px;margin-bottom:2px;
+    }
+    td.sect-td::before{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <h1>🏘️ Rightmove Rental Report &mdash; 23 Feb 2026</h1>
+  <p class="meta">
+    Updated: 23 Feb 2026 at 19:57 UTC &bull;
+    <a href="#" target="_blank">View live search on Rightmove</a>
   </p>
-  <p style="color:#666;font-size:13px;margin:0 0 20px;line-height:1.7">
+  <p class="desc">
     2+ bed properties to rent within 1&nbsp;mile of <strong>CR0&nbsp;1EQ</strong>,
     max £1,750&nbsp;pcm<br>
-    Sort: <em>closest to CR0&nbsp;1EQ first &rarr; then furthest from Croydon High Street
-    (quieter) &rarr; furnished &rarr; 6-month break &rarr; rent ↑</em><br>
-    <span style="font-size:11px;color:#aaa">
-      ↓ Dist CR0&nbsp;1EQ = closer is better &bull;
-      ↑ Dist High&nbsp;St = further is better &bull;
-      <span style="color:#2e7d32;font-weight:700">bold green</span> = optimal value
+    Sort: <em>closest to CR0 1EQ &rarr; furthest from High Street &rarr; furnished &rarr; 6-month break &rarr; rent&nbsp;↑</em><br>
+    <span class="hint">
+      ↓ CR0 dist = closer is better &bull;
+      ↑ High St dist = further is better &bull;
+      <span style="color:#2e7d32;font-weight:700">bold green</span> = optimal
     </span>
   </p>
 
-  <div style="display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap">
-    <div style="background:#e8f5e9;border-radius:8px;padding:12px 20px;text-align:center;min-width:90px">
-      <div style="font-size:26px;font-weight:700;color:#00703c">0</div>
-      <div style="font-size:11px;color:#555;margin-top:3px">Total</div>
-    </div>
-    <div style="background:#fff8e1;border-radius:8px;padding:12px 20px;text-align:center;min-width:90px;border:2px solid #ffe082">
-      <div style="font-size:26px;font-weight:700;color:#e65100">0</div>
-      <div style="font-size:11px;color:#555;margin-top:3px">🆕 New Today</div>
-    </div>
-    <div style="background:#e8f5e9;border-radius:8px;padding:12px 20px;text-align:center;min-width:90px">
-      <div style="font-size:26px;font-weight:700;color:#2e7d32">0</div>
-      <div style="font-size:11px;color:#555;margin-top:3px">✓ Furnished</div>
-    </div>
-    <div style="background:#e8f5e9;border-radius:8px;padding:12px 20px;text-align:center;min-width:90px">
-      <div style="font-size:26px;font-weight:700;color:#2e7d32">0</div>
-      <div style="font-size:11px;color:#555;margin-top:3px">6-month Break</div>
-    </div>
-    <div style="background:#e8f5e9;border-radius:8px;padding:12px 20px;text-align:center;min-width:90px">
-      <div style="font-size:26px;font-weight:700;color:#2e7d32">0</div>
-      <div style="font-size:11px;color:#555;margin-top:3px">🏠 Houses</div>
-    </div>
-    <div style="background:#e3f2fd;border-radius:8px;padding:12px 20px;text-align:center;min-width:90px">
-      <div style="font-size:26px;font-weight:700;color:#1565c0">0</div>
-      <div style="font-size:11px;color:#555;margin-top:3px">🏢 Flats</div>
-    </div>
+  <div class="stats">
+    <div class="stat"><div class="stat-num">0</div><div class="stat-lbl">Total</div></div>
+    <div class="stat new-stat"><div class="stat-num">0</div><div class="stat-lbl">🆕 New Today</div></div>
+    <div class="stat"><div class="stat-num" style="color:#2e7d32">0</div><div class="stat-lbl">✓ Furnished</div></div>
+    <div class="stat"><div class="stat-num" style="color:#2e7d32">0</div><div class="stat-lbl">6-mo Break</div></div>
+    <div class="stat"><div class="stat-num" style="color:#2e7d32">0</div><div class="stat-lbl">🏠 Houses</div></div>
+    <div class="stat flat-stat"><div class="stat-num">0</div><div class="stat-lbl">🏢 Flats</div></div>
   </div>
 
-  
-<table style="border-collapse:collapse;width:100%;font-size:13px;font-family:-apple-system,Arial,sans-serif">
+  <div class="tbl-wrap">
+    
+<table>
 <thead>
-  <tr style="background:#00703c;color:white">
-    <th style="padding:10px 12px;border:1px solid #005a2e;text-align:left;min-width:200px">Address</th>
-    <th style="padding:10px;border:1px solid #005a2e">Rent (pcm)</th>
-    <th style="padding:10px;border:1px solid #005a2e">Beds</th>
-    <th style="padding:10px;border:1px solid #005a2e">Type</th>
-    <th style="padding:10px;border:1px solid #005a2e">Furnished</th>
-    <th style="padding:10px;border:1px solid #005a2e">Break Clause</th>
-    <th style="padding:10px;border:1px solid #005a2e"
-        title="Distance from CR0 1EQ — closer is better (primary sort)">
-      Dist CR0&nbsp;1EQ ↓ ①</th>
-    <th style="padding:10px;border:1px solid #005a2e"
-        title="Distance from Croydon High Street — further is better (secondary sort)">
-      Dist High&nbsp;St ↑ ②</th>
+  <tr>
+    <th class="addr-col">Address</th>
+    <th>Rent (pcm)</th>
+    <th>Beds</th>
+    <th>Type</th>
+    <th>Furnished</th>
+    <th>Break Clause</th>
+    <th title="Distance from CR0 1EQ — closer is better (primary sort)">CR0&nbsp;1EQ ↓ ①</th>
+    <th title="Distance from Croydon High Street — further is better (secondary sort)">High&nbsp;St ↑ ②</th>
   </tr>
 </thead>
 <tbody>
 </tbody></table>
+  </div>
 
-  <p style="margin-top:18px;font-size:11px;color:#bbb;text-align:center">
+  <p style="margin-top:16px;font-size:11px;color:#bbb;text-align:center">
     Auto-generated daily by GitHub Actions &bull; Source: Rightmove
   </p>
 </div>
