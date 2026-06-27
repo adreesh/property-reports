@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26 11:41 UTC",
-  "count": 686,
+  "date": "2026-06-27 10:45 UTC",
+  "count": 682,
   "properties": {
     "174312815": {
       "addr": "open",
@@ -1910,24 +1910,6 @@
       "days_reduced": null,
       "_cached_date": "2026-06-26"
     },
-    "174369506": {
-      "addr": "open",
-      "price_str": "\u00a3275,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Share of Freehold",
-      "lease_years": null,
-      "postcode": "CR8 2AF",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "Not listed",
-      "gr": "Not listed",
-      "added_date": "2026-04-13",
-      "days_added": 74,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-06-26"
-    },
     "171757559": {
       "addr": "open",
       "price_str": "\u00a3270,000",
@@ -3044,24 +3026,6 @@
       "days_reduced": null,
       "_cached_date": "2026-06-26"
     },
-    "170065484": {
-      "addr": "open",
-      "price_str": "\u00a3290,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "CR5 2ND",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-02-21",
-      "days_reduced": 125,
-      "_cached_date": "2026-06-26"
-    },
     "172477037": {
       "addr": "open",
       "price_str": "\u00a3290,000",
@@ -3474,24 +3438,6 @@
       "days_added": 150,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-26"
-    },
-    "170785064": {
-      "addr": "open",
-      "price_str": "\u00a3250,000",
-      "beds": 2,
-      "propType": "flat",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "CR3 6LB",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-05-16",
-      "days_reduced": 41,
       "_cached_date": "2026-06-26"
     },
     "170626946": {
@@ -5364,24 +5310,6 @@
       "days_added": null,
       "reduced_date": "2026-05-13",
       "days_reduced": 44,
-      "_cached_date": "2026-06-26"
-    },
-    "174225221": {
-      "addr": "open",
-      "price_str": "\u00a3269,500",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8HW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-05-12",
-      "days_reduced": 45,
       "_cached_date": "2026-06-26"
     },
     "88325454": {
@@ -8660,24 +8588,6 @@
       "days_reduced": null,
       "_cached_date": "2026-06-26"
     },
-    "89420349": {
-      "addr": "open",
-      "price_str": "\u00a3310,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SW17 7EW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-06-08",
-      "days_reduced": 18,
-      "_cached_date": "2026-06-26"
-    },
     "89399424": {
       "addr": "open",
       "price_str": "\u00a3215,000",
@@ -9442,24 +9352,6 @@
       "tenure": "Freehold",
       "lease_years": null,
       "postcode": "CR2 0PY",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": "2026-06-13",
-      "days_added": 13,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-06-26"
-    },
-    "89668689": {
-      "addr": "open",
-      "price_str": "\u00a3325,000",
-      "beds": 2,
-      "propType": "end of terrace house",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "CR2 0PE",
       "prop_lat": null,
       "prop_lon": null,
       "sc": "N/A (Freehold)",
@@ -10529,8 +10421,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 9,
-      "_cached_date": "2026-06-24"
+      "days_reduced": 12,
+      "_cached_date": "2026-06-27"
     },
     "89692602": {
       "addr": "open",
@@ -10545,10 +10437,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-15",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89717964": {
       "addr": "open",
@@ -10563,10 +10455,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-15",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89717145": {
       "addr": "open",
@@ -10581,10 +10473,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-15",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89713926": {
       "addr": "open",
@@ -10599,16 +10491,16 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-15",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "87437232": {
       "addr": "open",
       "price_str": "\u00a375,000",
       "beds": 2,
-      "propType": "bungalow",
+      "propType": "park home",
       "tenure": "Freehold",
       "lease_years": null,
       "postcode": "CR3 5UE",
@@ -10617,10 +10509,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-13",
-      "days_added": 11,
+      "days_added": 14,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "173981948": {
       "addr": "open",
@@ -10635,10 +10527,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-03-27",
-      "days_added": 89,
+      "days_added": 92,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89745894": {
       "addr": "open",
@@ -11013,10 +10905,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-18",
-      "days_added": 6,
+      "days_added": 9,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89858811": {
       "addr": "open",
@@ -11031,10 +10923,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-18",
-      "days_added": 6,
+      "days_added": 9,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89858463": {
       "addr": "open",
@@ -11049,10 +10941,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-18",
-      "days_added": 6,
+      "days_added": 9,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89840853": {
       "addr": "open",
@@ -11067,10 +10959,10 @@
       "sc": "\u00a31,320.00 pa",
       "gr": "Not listed",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89836431": {
       "addr": "open",
@@ -11085,10 +10977,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89827539": {
       "addr": "open",
@@ -11103,10 +10995,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89824563": {
       "addr": "open",
@@ -11121,10 +11013,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89864283": {
       "addr": "open",
@@ -11139,10 +11031,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-18",
-      "days_added": 6,
+      "days_added": 9,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89863086": {
       "addr": "open",
@@ -11157,10 +11049,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-18",
-      "days_added": 6,
+      "days_added": 9,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89842845": {
       "addr": "open",
@@ -11175,10 +11067,10 @@
       "sc": "\u00a32556 a year",
       "gr": "Not listed",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89841888": {
       "addr": "open",
@@ -11193,10 +11085,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89841885": {
       "addr": "open",
@@ -11211,10 +11103,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89822001": {
       "addr": "open",
@@ -11229,10 +11121,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-17",
-      "days_added": 7,
+      "days_added": 10,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "88324542": {
       "addr": "open",
@@ -11247,10 +11139,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-11",
-      "days_added": 44,
+      "days_added": 47,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89910753": {
       "addr": "open",
@@ -11468,24 +11360,6 @@
       "days_reduced": null,
       "_cached_date": "2026-06-26"
     },
-    "88242540": {
-      "addr": "open",
-      "price_str": "\u00a3400,000",
-      "beds": 2,
-      "propType": "terraced house",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM1 2LR",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-06-21",
-      "days_reduced": 3,
-      "_cached_date": "2026-06-24"
-    },
     "89955786": {
       "addr": "open",
       "price_str": "\u00a3197,500",
@@ -11499,10 +11373,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-20",
-      "days_added": 4,
+      "days_added": 7,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89954376": {
       "addr": "open",
@@ -11517,10 +11391,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-20",
-      "days_added": 4,
+      "days_added": 7,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89979078": {
       "addr": "open",
@@ -11822,11 +11696,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-24",
+      "days_added": 3,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "90053118": {
       "addr": "open",
@@ -11840,11 +11714,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-23",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "90044190": {
       "addr": "open",
@@ -11858,17 +11732,17 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-23",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "90034992": {
       "addr": "open",
       "price_str": "\u00a3375,000",
       "beds": 2,
-      "propType": "maisonette",
+      "propType": "flat",
       "tenure": "Share of Freehold",
       "lease_years": null,
       "postcode": "SM3 8SD",
@@ -11876,11 +11750,11 @@
       "prop_lon": null,
       "sc": "Not listed",
       "gr": "Not listed",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-23",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "164778980": {
       "addr": "open",
@@ -11894,11 +11768,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-23",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89180823": {
       "addr": "open",
@@ -11914,9 +11788,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "reduced_date": "2026-06-24",
+      "days_reduced": 3,
+      "_cached_date": "2026-06-27"
     },
     "168465980": {
       "addr": "open",
@@ -11930,11 +11804,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-24",
+      "days_added": 3,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "90069534": {
       "addr": "open",
@@ -11948,11 +11822,11 @@
       "prop_lon": null,
       "sc": "Not listed",
       "gr": "Not listed",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-24",
+      "days_added": 3,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "90051297": {
       "addr": "open",
@@ -11966,11 +11840,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-23",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "89081067": {
       "addr": "open",
@@ -11986,9 +11860,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "reduced_date": "2026-06-23",
+      "days_reduced": 4,
+      "_cached_date": "2026-06-27"
     },
     "90079218": {
       "addr": "open",
@@ -12002,11 +11876,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-06-24",
+      "days_added": 3,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-06-24"
+      "_cached_date": "2026-06-27"
     },
     "90117996": {
       "addr": "open",
@@ -12349,6 +12223,60 @@
       "reduced_date": null,
       "days_reduced": null,
       "_cached_date": "2026-06-26"
+    },
+    "90211170": {
+      "addr": "open",
+      "price_str": "\u00a3300,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM5 3LB",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-06-27"
+    },
+    "173626178": {
+      "addr": "open",
+      "price_str": "\u00a3285,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "EC1V 0LN",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-04-27",
+      "days_reduced": 61,
+      "_cached_date": "2026-06-27"
+    },
+    "90206247": {
+      "addr": "open",
+      "price_str": "\u00a3200,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "CR2 6AP",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-06-27"
     }
   }
 }
