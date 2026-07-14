@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13 11:50 UTC",
-  "count": 675,
+  "date": "2026-07-14 10:32 UTC",
+  "count": 678,
   "properties": {
     "174312815": {
       "addr": "open",
@@ -17,8 +17,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-08",
-      "days_reduced": 64,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 67,
+      "_cached_date": "2026-07-14"
     },
     "171266663": {
       "addr": "open",
@@ -35,8 +35,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-30",
-      "days_reduced": 72,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 75,
+      "_cached_date": "2026-07-14"
     },
     "87894825": {
       "addr": "open",
@@ -51,10 +51,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-30",
-      "days_added": 72,
+      "days_added": 75,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87832851": {
       "addr": "open",
@@ -71,8 +71,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
     },
     "174955163": {
       "addr": "open",
@@ -89,8 +89,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-04",
-      "days_reduced": 37,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 40,
+      "_cached_date": "2026-07-14"
     },
     "174880850": {
       "addr": "open",
@@ -105,10 +105,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-24",
-      "days_added": 78,
+      "days_added": 81,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173761781": {
       "addr": "open",
@@ -125,8 +125,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-03",
-      "days_reduced": 38,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 41,
+      "_cached_date": "2026-07-14"
     },
     "174690470": {
       "addr": "open",
@@ -141,10 +141,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-20",
-      "days_added": 82,
+      "days_added": 85,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174364367": {
       "addr": "open",
@@ -161,8 +161,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-13",
-      "days_reduced": 59,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 62,
+      "_cached_date": "2026-07-14"
     },
     "174153284": {
       "addr": "open",
@@ -177,10 +177,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-07",
-      "days_added": 95,
+      "days_added": 98,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "168637244": {
       "addr": "open",
@@ -197,8 +197,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-07",
-      "days_reduced": 95,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 98,
+      "_cached_date": "2026-07-14"
     },
     "174019487": {
       "addr": "open",
@@ -215,8 +215,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-02",
-      "days_reduced": 39,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 42,
+      "_cached_date": "2026-07-14"
     },
     "173547482": {
       "addr": "open",
@@ -231,10 +231,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-23",
-      "days_added": 110,
+      "days_added": 113,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87717684": {
       "addr": "open",
@@ -251,8 +251,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-27",
-      "days_reduced": 14,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 17,
+      "_cached_date": "2026-07-14"
     },
     "172306001": {
       "addr": "open",
@@ -269,8 +269,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-20",
-      "days_reduced": 113,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 116,
+      "_cached_date": "2026-07-14"
     },
     "170597243": {
       "addr": "open",
@@ -287,8 +287,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-20",
-      "days_reduced": 113,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 116,
+      "_cached_date": "2026-07-14"
     },
     "147541409": {
       "addr": "open",
@@ -305,8 +305,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-20",
-      "days_reduced": 113,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 116,
+      "_cached_date": "2026-07-14"
     },
     "173506931": {
       "addr": "open",
@@ -323,8 +323,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-26",
-      "days_reduced": 15,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 18,
+      "_cached_date": "2026-07-14"
     },
     "155257913": {
       "addr": "open",
@@ -341,8 +341,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-19",
-      "days_reduced": 114,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 117,
+      "_cached_date": "2026-07-14"
     },
     "171172034": {
       "addr": "open",
@@ -359,8 +359,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-19",
-      "days_reduced": 114,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 117,
+      "_cached_date": "2026-07-14"
     },
     "173257970": {
       "addr": "open",
@@ -375,10 +375,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-13",
-      "days_added": 120,
+      "days_added": 123,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173097419": {
       "addr": "open",
@@ -395,8 +395,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-22",
-      "days_reduced": 50,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 53,
+      "_cached_date": "2026-07-14"
     },
     "172862699": {
       "addr": "open",
@@ -413,8 +413,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-17",
-      "days_reduced": 24,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 27,
+      "_cached_date": "2026-07-14"
     },
     "174879098": {
       "addr": "open",
@@ -431,8 +431,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-19",
-      "days_reduced": 53,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 56,
+      "_cached_date": "2026-07-14"
     },
     "174214412": {
       "addr": "open",
@@ -449,8 +449,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-11-07",
-      "days_reduced": 246,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 249,
+      "_cached_date": "2026-07-14"
     },
     "163678172": {
       "addr": "open",
@@ -467,8 +467,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-10-10",
-      "days_reduced": 274,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 277,
+      "_cached_date": "2026-07-14"
     },
     "150185162": {
       "addr": "open",
@@ -485,8 +485,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-10-06",
-      "days_reduced": 278,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 281,
+      "_cached_date": "2026-07-14"
     },
     "167323283": {
       "addr": "open",
@@ -501,10 +501,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-09-23",
-      "days_added": 291,
+      "days_added": 294,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "159203210": {
       "addr": "open",
@@ -521,8 +521,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-05-07",
-      "days_reduced": 430,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 433,
+      "_cached_date": "2026-07-14"
     },
     "88237848": {
       "addr": "open",
@@ -537,10 +537,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172759148": {
       "addr": "open",
@@ -557,8 +557,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-01",
-      "days_reduced": 40,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 43,
+      "_cached_date": "2026-07-14"
     },
     "88225647": {
       "addr": "open",
@@ -575,8 +575,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "88216551": {
       "addr": "open",
@@ -591,10 +591,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88186086": {
       "addr": "open",
@@ -611,8 +611,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-09",
-      "days_reduced": 2,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 5,
+      "_cached_date": "2026-07-14"
     },
     "174423614": {
       "addr": "open",
@@ -629,8 +629,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-07",
-      "days_reduced": 65,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 68,
+      "_cached_date": "2026-07-14"
     },
     "88176162": {
       "addr": "open",
@@ -645,10 +645,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-07",
-      "days_added": 65,
+      "days_added": 68,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172819526": {
       "addr": "open",
@@ -665,8 +665,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-06",
-      "days_reduced": 66,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 69,
+      "_cached_date": "2026-07-14"
     },
     "162369716": {
       "addr": "open",
@@ -683,8 +683,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-06",
-      "days_reduced": 66,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 69,
+      "_cached_date": "2026-07-14"
     },
     "88096947": {
       "addr": "open",
@@ -699,10 +699,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-06",
-      "days_added": 66,
+      "days_added": 69,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88034793": {
       "addr": "open",
@@ -717,10 +717,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-04",
-      "days_added": 68,
+      "days_added": 71,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88024194": {
       "addr": "open",
@@ -737,8 +737,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-26",
-      "days_reduced": 15,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 18,
+      "_cached_date": "2026-07-14"
     },
     "88016091": {
       "addr": "open",
@@ -755,8 +755,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-09",
-      "days_reduced": 2,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 5,
+      "_cached_date": "2026-07-14"
     },
     "169771655": {
       "addr": "open",
@@ -773,8 +773,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-01",
-      "days_reduced": 71,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 74,
+      "_cached_date": "2026-07-14"
     },
     "157165625": {
       "addr": "open",
@@ -791,8 +791,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-01",
-      "days_reduced": 71,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 74,
+      "_cached_date": "2026-07-14"
     },
     "87933240": {
       "addr": "open",
@@ -809,8 +809,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-24",
-      "days_reduced": 17,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 20,
+      "_cached_date": "2026-07-14"
     },
     "87919422": {
       "addr": "open",
@@ -827,8 +827,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-30",
-      "days_reduced": 72,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 75,
+      "_cached_date": "2026-07-14"
     },
     "87919533": {
       "addr": "open",
@@ -843,10 +843,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-30",
-      "days_added": 72,
+      "days_added": 75,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87919377": {
       "addr": "open",
@@ -861,10 +861,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-30",
-      "days_added": 72,
+      "days_added": 75,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87894129": {
       "addr": "open",
@@ -881,8 +881,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "174452807": {
       "addr": "open",
@@ -899,8 +899,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-29",
-      "days_reduced": 12,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 15,
+      "_cached_date": "2026-07-14"
     },
     "87820227": {
       "addr": "open",
@@ -917,8 +917,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-03",
-      "days_reduced": 38,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 41,
+      "_cached_date": "2026-07-14"
     },
     "87802164": {
       "addr": "open",
@@ -933,10 +933,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-28",
-      "days_added": 74,
+      "days_added": 77,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87278388": {
       "addr": "open",
@@ -953,8 +953,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-28",
-      "days_reduced": 74,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 77,
+      "_cached_date": "2026-07-14"
     },
     "87783381": {
       "addr": "open",
@@ -969,10 +969,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-28",
-      "days_added": 74,
+      "days_added": 77,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174981545": {
       "addr": "open",
@@ -987,10 +987,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-27",
-      "days_added": 75,
+      "days_added": 78,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174981524": {
       "addr": "open",
@@ -1005,10 +1005,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-27",
-      "days_added": 75,
+      "days_added": 78,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174996383": {
       "addr": "open",
@@ -1023,10 +1023,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-27",
-      "days_added": 75,
+      "days_added": 78,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174973736": {
       "addr": "open",
@@ -1041,10 +1041,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-27",
-      "days_added": 75,
+      "days_added": 78,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "166432232": {
       "addr": "open",
@@ -1061,26 +1061,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-27",
-      "days_reduced": 75,
-      "_cached_date": "2026-07-11"
-    },
-    "172312940": {
-      "addr": "open",
-      "price_str": "\u00a3245,000",
-      "beds": 2,
-      "propType": "flat",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "CR3 5UE",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 78,
+      "_cached_date": "2026-07-14"
     },
     "174951431": {
       "addr": "open",
@@ -1097,8 +1079,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-02",
-      "days_reduced": 39,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 42,
+      "_cached_date": "2026-07-14"
     },
     "174971351": {
       "addr": "open",
@@ -1115,8 +1097,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-02",
-      "days_reduced": 9,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 12,
+      "_cached_date": "2026-07-14"
     },
     "168121805": {
       "addr": "open",
@@ -1133,8 +1115,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-25",
-      "days_reduced": 77,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 80,
+      "_cached_date": "2026-07-14"
     },
     "171579725": {
       "addr": "open",
@@ -1151,8 +1133,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-24",
-      "days_reduced": 78,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 81,
+      "_cached_date": "2026-07-14"
     },
     "172758746": {
       "addr": "open",
@@ -1169,8 +1151,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-23",
-      "days_reduced": 79,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 82,
+      "_cached_date": "2026-07-14"
     },
     "87635022": {
       "addr": "open",
@@ -1187,8 +1169,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-18",
-      "days_reduced": 54,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 57,
+      "_cached_date": "2026-07-14"
     },
     "174827207": {
       "addr": "open",
@@ -1205,8 +1187,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-03",
-      "days_reduced": 8,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 11,
+      "_cached_date": "2026-07-14"
     },
     "174820946": {
       "addr": "open",
@@ -1223,8 +1205,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-27",
-      "days_reduced": 14,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 17,
+      "_cached_date": "2026-07-14"
     },
     "87636549": {
       "addr": "open",
@@ -1241,8 +1223,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-23",
-      "days_reduced": 79,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 82,
+      "_cached_date": "2026-07-14"
     },
     "171151331": {
       "addr": "open",
@@ -1259,8 +1241,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-05",
-      "days_reduced": 36,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 39,
+      "_cached_date": "2026-07-14"
     },
     "174808520": {
       "addr": "open",
@@ -1275,10 +1257,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-22",
-      "days_added": 80,
+      "days_added": 83,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171875735": {
       "addr": "open",
@@ -1295,8 +1277,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "174780881": {
       "addr": "open",
@@ -1313,8 +1295,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-12",
-      "days_reduced": 60,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 63,
+      "_cached_date": "2026-07-14"
     },
     "169789883": {
       "addr": "open",
@@ -1331,8 +1313,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-22",
-      "days_reduced": 80,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 83,
+      "_cached_date": "2026-07-14"
     },
     "171208199": {
       "addr": "open",
@@ -1349,8 +1331,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-12",
-      "days_reduced": 29,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 32,
+      "_cached_date": "2026-07-14"
     },
     "174727184": {
       "addr": "open",
@@ -1367,8 +1349,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-19",
-      "days_reduced": 53,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 56,
+      "_cached_date": "2026-07-14"
     },
     "173666027": {
       "addr": "open",
@@ -1385,8 +1367,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-08",
-      "days_reduced": 3,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 6,
+      "_cached_date": "2026-07-14"
     },
     "174717371": {
       "addr": "open",
@@ -1401,10 +1383,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-21",
-      "days_added": 81,
+      "days_added": 84,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174633548": {
       "addr": "open",
@@ -1421,8 +1403,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-17",
-      "days_reduced": 24,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 27,
+      "_cached_date": "2026-07-14"
     },
     "166862369": {
       "addr": "open",
@@ -1439,8 +1421,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-01",
-      "days_reduced": 10,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 13,
+      "_cached_date": "2026-07-14"
     },
     "174580085": {
       "addr": "open",
@@ -1457,8 +1439,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
     },
     "174563297": {
       "addr": "open",
@@ -1475,8 +1457,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-03",
-      "days_reduced": 38,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 41,
+      "_cached_date": "2026-07-14"
     },
     "174522341": {
       "addr": "open",
@@ -1491,10 +1473,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-16",
-      "days_added": 86,
+      "days_added": 89,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174517589": {
       "addr": "open",
@@ -1511,8 +1493,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "173470097": {
       "addr": "open",
@@ -1529,8 +1511,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-11",
-      "days_reduced": 61,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 64,
+      "_cached_date": "2026-07-14"
     },
     "174493598": {
       "addr": "open",
@@ -1545,10 +1527,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-15",
-      "days_added": 87,
+      "days_added": 90,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174477173": {
       "addr": "open",
@@ -1563,10 +1545,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-04-15",
-      "days_added": 87,
+      "days_added": 90,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174470519": {
       "addr": "open",
@@ -1581,10 +1563,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-15",
-      "days_added": 87,
+      "days_added": 90,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174436541": {
       "addr": "open",
@@ -1601,8 +1583,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "174371291": {
       "addr": "open",
@@ -1617,10 +1599,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-13",
-      "days_added": 89,
+      "days_added": 92,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171757559": {
       "addr": "open",
@@ -1637,8 +1619,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-13",
-      "days_reduced": 89,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 92,
+      "_cached_date": "2026-07-14"
     },
     "170597483": {
       "addr": "open",
@@ -1655,8 +1637,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-13",
-      "days_reduced": 89,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 92,
+      "_cached_date": "2026-07-14"
     },
     "174304253": {
       "addr": "open",
@@ -1671,10 +1653,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-10",
-      "days_added": 92,
+      "days_added": 95,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173151254": {
       "addr": "open",
@@ -1691,8 +1673,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-10",
-      "days_reduced": 92,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 95,
+      "_cached_date": "2026-07-14"
     },
     "174224888": {
       "addr": "open",
@@ -1707,10 +1689,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-09",
-      "days_added": 93,
+      "days_added": 96,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174224000": {
       "addr": "open",
@@ -1725,10 +1707,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-09",
-      "days_added": 93,
+      "days_added": 96,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172163474": {
       "addr": "open",
@@ -1745,8 +1727,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-09",
-      "days_reduced": 93,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 96,
+      "_cached_date": "2026-07-14"
     },
     "174214268": {
       "addr": "open",
@@ -1761,10 +1743,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-09",
-      "days_added": 93,
+      "days_added": 96,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "169913303": {
       "addr": "open",
@@ -1781,8 +1763,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "166738955": {
       "addr": "open",
@@ -1799,8 +1781,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-07",
-      "days_reduced": 95,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 98,
+      "_cached_date": "2026-07-14"
     },
     "174094442": {
       "addr": "open",
@@ -1815,10 +1797,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-04",
-      "days_added": 98,
+      "days_added": 101,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174080726": {
       "addr": "open",
@@ -1833,10 +1815,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-03",
-      "days_added": 99,
+      "days_added": 102,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174058247": {
       "addr": "open",
@@ -1851,10 +1833,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-02",
-      "days_added": 100,
+      "days_added": 103,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174057494": {
       "addr": "open",
@@ -1869,10 +1851,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-02",
-      "days_added": 100,
+      "days_added": 103,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174027917": {
       "addr": "open",
@@ -1887,10 +1869,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-02",
-      "days_added": 100,
+      "days_added": 103,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174024053": {
       "addr": "open",
@@ -1905,10 +1887,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-02",
-      "days_added": 100,
+      "days_added": 103,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173997527": {
       "addr": "open",
@@ -1925,8 +1907,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-02",
-      "days_reduced": 9,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 12,
+      "_cached_date": "2026-07-14"
     },
     "163468421": {
       "addr": "open",
@@ -1943,8 +1925,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-01",
-      "days_reduced": 101,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 104,
+      "_cached_date": "2026-07-14"
     },
     "167965373": {
       "addr": "open",
@@ -1961,8 +1943,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-27",
-      "days_reduced": 106,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 109,
+      "_cached_date": "2026-07-14"
     },
     "164278520": {
       "addr": "open",
@@ -1977,10 +1959,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-25",
-      "days_added": 108,
+      "days_added": 111,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173647343": {
       "addr": "open",
@@ -1997,8 +1979,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-20",
-      "days_reduced": 52,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 55,
+      "_cached_date": "2026-07-14"
     },
     "87720891": {
       "addr": "open",
@@ -2013,10 +1995,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-21",
-      "days_added": 112,
+      "days_added": 115,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "159041645": {
       "addr": "open",
@@ -2033,26 +2015,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-12",
-      "days_reduced": 60,
-      "_cached_date": "2026-07-11"
-    },
-    "173474249": {
-      "addr": "open",
-      "price_str": "\u00a3400,000",
-      "beds": 2,
-      "propType": "ground floor flat",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "CR2 6PY",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": "2026-03-19",
-      "days_added": 114,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 63,
+      "_cached_date": "2026-07-14"
     },
     "173457572": {
       "addr": "open",
@@ -2067,10 +2031,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-19",
-      "days_added": 114,
+      "days_added": 117,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173426138": {
       "addr": "open",
@@ -2087,8 +2051,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "173410670": {
       "addr": "open",
@@ -2105,8 +2069,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "173410661": {
       "addr": "open",
@@ -2123,8 +2087,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "173407253": {
       "addr": "open",
@@ -2139,10 +2103,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-17",
-      "days_added": 116,
+      "days_added": 119,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170845820": {
       "addr": "open",
@@ -2159,8 +2123,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-17",
-      "days_reduced": 116,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 119,
+      "_cached_date": "2026-07-14"
     },
     "173332163": {
       "addr": "open",
@@ -2177,8 +2141,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-24",
-      "days_reduced": 17,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 20,
+      "_cached_date": "2026-07-14"
     },
     "173273450": {
       "addr": "open",
@@ -2195,8 +2159,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-08",
-      "days_reduced": 3,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 6,
+      "_cached_date": "2026-07-14"
     },
     "173182586": {
       "addr": "open",
@@ -2213,8 +2177,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-13",
-      "days_reduced": 59,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 62,
+      "_cached_date": "2026-07-14"
     },
     "164705375": {
       "addr": "open",
@@ -2231,8 +2195,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-11",
-      "days_reduced": 122,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 125,
+      "_cached_date": "2026-07-14"
     },
     "87499833": {
       "addr": "open",
@@ -2249,8 +2213,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-02",
-      "days_reduced": 39,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 42,
+      "_cached_date": "2026-07-14"
     },
     "173100677": {
       "addr": "open",
@@ -2267,8 +2231,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-09",
-      "days_reduced": 2,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 5,
+      "_cached_date": "2026-07-14"
     },
     "173090114": {
       "addr": "open",
@@ -2285,8 +2249,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-22",
-      "days_reduced": 50,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 53,
+      "_cached_date": "2026-07-14"
     },
     "173070572": {
       "addr": "open",
@@ -2301,10 +2265,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-09",
-      "days_added": 124,
+      "days_added": 127,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173033678": {
       "addr": "open",
@@ -2321,8 +2285,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-26",
-      "days_reduced": 15,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 18,
+      "_cached_date": "2026-07-14"
     },
     "170338070": {
       "addr": "open",
@@ -2339,8 +2303,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-13",
-      "days_reduced": 59,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 62,
+      "_cached_date": "2026-07-14"
     },
     "169938047": {
       "addr": "open",
@@ -2357,8 +2321,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-02",
-      "days_reduced": 39,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 42,
+      "_cached_date": "2026-07-14"
     },
     "172834745": {
       "addr": "open",
@@ -2375,8 +2339,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-08",
-      "days_reduced": 33,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 36,
+      "_cached_date": "2026-07-14"
     },
     "172808108": {
       "addr": "open",
@@ -2391,10 +2355,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-03",
-      "days_added": 130,
+      "days_added": 133,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170749661": {
       "addr": "open",
@@ -2411,8 +2375,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-03",
-      "days_reduced": 130,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 133,
+      "_cached_date": "2026-07-14"
     },
     "172793315": {
       "addr": "open",
@@ -2427,10 +2391,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-03",
-      "days_added": 130,
+      "days_added": 133,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172768007": {
       "addr": "open",
@@ -2445,10 +2409,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-02",
-      "days_added": 131,
+      "days_added": 134,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "128662760": {
       "addr": "open",
@@ -2465,8 +2429,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-13",
-      "days_reduced": 59,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 62,
+      "_cached_date": "2026-07-14"
     },
     "168982004": {
       "addr": "open",
@@ -2483,8 +2447,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-13",
-      "days_reduced": 59,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 62,
+      "_cached_date": "2026-07-14"
     },
     "172664114": {
       "addr": "open",
@@ -2499,10 +2463,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-02-27",
-      "days_added": 134,
+      "days_added": 137,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "169554854": {
       "addr": "open",
@@ -2519,8 +2483,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-26",
-      "days_reduced": 135,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 138,
+      "_cached_date": "2026-07-14"
     },
     "87648906": {
       "addr": "open",
@@ -2537,8 +2501,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-26",
-      "days_reduced": 15,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 18,
+      "_cached_date": "2026-07-14"
     },
     "172542020": {
       "addr": "open",
@@ -2553,10 +2517,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-02-24",
-      "days_added": 137,
+      "days_added": 140,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172479578": {
       "addr": "open",
@@ -2571,10 +2535,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-02-21",
-      "days_added": 140,
+      "days_added": 143,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172477037": {
       "addr": "open",
@@ -2591,8 +2555,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-29",
-      "days_reduced": 12,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 15,
+      "_cached_date": "2026-07-14"
     },
     "86906469": {
       "addr": "open",
@@ -2609,8 +2573,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-20",
-      "days_reduced": 141,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 144,
+      "_cached_date": "2026-07-14"
     },
     "172425959": {
       "addr": "open",
@@ -2625,10 +2589,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-02-20",
-      "days_added": 141,
+      "days_added": 144,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "159006434": {
       "addr": "open",
@@ -2645,8 +2609,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-19",
-      "days_reduced": 142,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 145,
+      "_cached_date": "2026-07-14"
     },
     "170568212": {
       "addr": "open",
@@ -2663,8 +2627,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
     },
     "174878375": {
       "addr": "open",
@@ -2679,10 +2643,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-02-18",
-      "days_added": 143,
+      "days_added": 146,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174878876": {
       "addr": "open",
@@ -2697,10 +2661,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-02-18",
-      "days_added": 143,
+      "days_added": 146,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "168274190": {
       "addr": "open",
@@ -2717,8 +2681,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-16",
-      "days_reduced": 145,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 148,
+      "_cached_date": "2026-07-14"
     },
     "167619920": {
       "addr": "open",
@@ -2735,8 +2699,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-13",
-      "days_reduced": 148,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 151,
+      "_cached_date": "2026-07-14"
     },
     "172030055": {
       "addr": "open",
@@ -2751,10 +2715,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-02-09",
-      "days_added": 152,
+      "days_added": 155,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171544742": {
       "addr": "open",
@@ -2771,8 +2735,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-09",
-      "days_reduced": 152,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 155,
+      "_cached_date": "2026-07-14"
     },
     "171480020": {
       "addr": "open",
@@ -2789,8 +2753,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "169138442": {
       "addr": "open",
@@ -2807,8 +2771,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-06",
-      "days_reduced": 155,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 158,
+      "_cached_date": "2026-07-14"
     },
     "171926642": {
       "addr": "open",
@@ -2823,10 +2787,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-02-06",
-      "days_added": 155,
+      "days_added": 158,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "162000611": {
       "addr": "open",
@@ -2843,8 +2807,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-05",
-      "days_reduced": 156,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 159,
+      "_cached_date": "2026-07-14"
     },
     "160251626": {
       "addr": "open",
@@ -2861,8 +2825,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-02",
-      "days_reduced": 159,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 162,
+      "_cached_date": "2026-07-14"
     },
     "165702311": {
       "addr": "open",
@@ -2879,8 +2843,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-01-30",
-      "days_reduced": 162,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 165,
+      "_cached_date": "2026-07-14"
     },
     "171629255": {
       "addr": "open",
@@ -2895,10 +2859,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-30",
-      "days_added": 162,
+      "days_added": 165,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174876287": {
       "addr": "open",
@@ -2913,10 +2877,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-27",
-      "days_added": 165,
+      "days_added": 168,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "165059255": {
       "addr": "open",
@@ -2933,8 +2897,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-01-27",
-      "days_reduced": 165,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 168,
+      "_cached_date": "2026-07-14"
     },
     "171492587": {
       "addr": "open",
@@ -2949,10 +2913,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-27",
-      "days_added": 165,
+      "days_added": 168,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170626946": {
       "addr": "open",
@@ -2969,8 +2933,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-01-19",
-      "days_reduced": 173,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 176,
+      "_cached_date": "2026-07-14"
     },
     "87235635": {
       "addr": "open",
@@ -2987,8 +2951,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-01-15",
-      "days_reduced": 177,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 180,
+      "_cached_date": "2026-07-14"
     },
     "87447243": {
       "addr": "open",
@@ -3003,10 +2967,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-01-08",
-      "days_added": 184,
+      "days_added": 187,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170795549": {
       "addr": "open",
@@ -3021,10 +2985,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-03",
-      "days_added": 189,
+      "days_added": 192,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170740811": {
       "addr": "open",
@@ -3039,10 +3003,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-01",
-      "days_added": 191,
+      "days_added": 194,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170611277": {
       "addr": "open",
@@ -3057,10 +3021,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-12-26",
-      "days_added": 197,
+      "days_added": 200,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "166495868": {
       "addr": "open",
@@ -3077,12 +3041,12 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-12-26",
-      "days_reduced": 197,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 200,
+      "_cached_date": "2026-07-14"
     },
     "170610557": {
       "addr": "open",
-      "price_str": "\u00a3375,000",
+      "price_str": "\u00a3350,000",
       "beds": 2,
       "propType": "flat",
       "tenure": "Freehold",
@@ -3092,11 +3056,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": "2025-12-26",
-      "days_added": 197,
+      "added_date": null,
+      "days_added": null,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "161446811": {
       "addr": "open",
@@ -3113,8 +3077,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-12-26",
-      "days_reduced": 197,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 200,
+      "_cached_date": "2026-07-14"
     },
     "170075063": {
       "addr": "open",
@@ -3129,10 +3093,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-12-06",
-      "days_added": 217,
+      "days_added": 220,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "169907114": {
       "addr": "open",
@@ -3149,8 +3113,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-20",
-      "days_reduced": 52,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 55,
+      "_cached_date": "2026-07-14"
     },
     "87034641": {
       "addr": "open",
@@ -3167,8 +3131,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-11-28",
-      "days_reduced": 225,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 228,
+      "_cached_date": "2026-07-14"
     },
     "169475405": {
       "addr": "open",
@@ -3185,12 +3149,12 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-20",
-      "days_reduced": 52,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 55,
+      "_cached_date": "2026-07-14"
     },
     "169206173": {
       "addr": "open",
-      "price_str": "\u00a3300,000",
+      "price_str": "\u00a3250,000",
       "beds": 2,
       "propType": "flat",
       "tenure": "Freehold",
@@ -3202,9 +3166,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": "2026-05-20",
-      "days_reduced": 52,
-      "_cached_date": "2026-07-11"
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
     },
     "169047755": {
       "addr": "open",
@@ -3219,10 +3183,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-11-06",
-      "days_added": 247,
+      "days_added": 250,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "168531329": {
       "addr": "open",
@@ -3237,10 +3201,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-10-23",
-      "days_added": 261,
+      "days_added": 264,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "168423965": {
       "addr": "open",
@@ -3257,8 +3221,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-10-17",
-      "days_reduced": 267,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 270,
+      "_cached_date": "2026-07-14"
     },
     "156249035": {
       "addr": "open",
@@ -3275,8 +3239,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-10-09",
-      "days_reduced": 275,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 278,
+      "_cached_date": "2026-07-14"
     },
     "167383367": {
       "addr": "open",
@@ -3291,10 +3255,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-09-25",
-      "days_added": 289,
+      "days_added": 292,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "164395547": {
       "addr": "open",
@@ -3311,8 +3275,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-09-23",
-      "days_reduced": 291,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 294,
+      "_cached_date": "2026-07-14"
     },
     "167301974": {
       "addr": "open",
@@ -3329,8 +3293,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "167150177": {
       "addr": "open",
@@ -3345,10 +3309,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-09-18",
-      "days_added": 296,
+      "days_added": 299,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "166511924": {
       "addr": "open",
@@ -3363,10 +3327,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-09-03",
-      "days_added": 311,
+      "days_added": 314,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "165999299": {
       "addr": "open",
@@ -3381,10 +3345,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-08-20",
-      "days_added": 325,
+      "days_added": 328,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "165936212": {
       "addr": "open",
@@ -3399,10 +3363,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-08-19",
-      "days_added": 326,
+      "days_added": 329,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "163263743": {
       "addr": "open",
@@ -3419,8 +3383,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-08-09",
-      "days_reduced": 336,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 339,
+      "_cached_date": "2026-07-14"
     },
     "164817446": {
       "addr": "open",
@@ -3437,8 +3401,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-19",
-      "days_reduced": 53,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 56,
+      "_cached_date": "2026-07-14"
     },
     "142726424": {
       "addr": "open",
@@ -3455,8 +3419,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-19",
-      "days_reduced": 53,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 56,
+      "_cached_date": "2026-07-14"
     },
     "88346184": {
       "addr": "open",
@@ -3473,8 +3437,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-01",
-      "days_reduced": 10,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 13,
+      "_cached_date": "2026-07-14"
     },
     "88306644": {
       "addr": "open",
@@ -3491,8 +3455,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-02",
-      "days_reduced": 9,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 12,
+      "_cached_date": "2026-07-14"
     },
     "88405989": {
       "addr": "open",
@@ -3507,10 +3471,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-13",
-      "days_added": 59,
+      "days_added": 62,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88420584": {
       "addr": "open",
@@ -3527,8 +3491,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-26",
-      "days_reduced": 15,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 18,
+      "_cached_date": "2026-07-14"
     },
     "88461840": {
       "addr": "open",
@@ -3545,8 +3509,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-08",
-      "days_reduced": 3,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 6,
+      "_cached_date": "2026-07-14"
     },
     "88522371": {
       "addr": "open",
@@ -3563,8 +3527,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-29",
-      "days_reduced": 43,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 46,
+      "_cached_date": "2026-07-14"
     },
     "88520307": {
       "addr": "open",
@@ -3581,8 +3545,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-08",
-      "days_reduced": 33,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 36,
+      "_cached_date": "2026-07-14"
     },
     "88526730": {
       "addr": "open",
@@ -3599,8 +3563,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-09",
-      "days_reduced": 32,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 35,
+      "_cached_date": "2026-07-14"
     },
     "88580787": {
       "addr": "open",
@@ -3615,10 +3579,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-16",
-      "days_added": 56,
+      "days_added": 59,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88564056": {
       "addr": "open",
@@ -3635,8 +3599,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "88547256": {
       "addr": "open",
@@ -3653,8 +3617,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "88582275": {
       "addr": "open",
@@ -3669,10 +3633,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-16",
-      "days_added": 56,
+      "days_added": 59,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88651059": {
       "addr": "open",
@@ -3687,10 +3651,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-18",
-      "days_added": 54,
+      "days_added": 57,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173253584": {
       "addr": "open",
@@ -3705,10 +3669,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-13",
-      "days_added": 120,
+      "days_added": 123,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88721688": {
       "addr": "open",
@@ -3725,8 +3689,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-29",
-      "days_reduced": 43,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 46,
+      "_cached_date": "2026-07-14"
     },
     "88720422": {
       "addr": "open",
@@ -3741,10 +3705,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88716510": {
       "addr": "open",
@@ -3759,10 +3723,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88716492": {
       "addr": "open",
@@ -3777,10 +3741,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88711533": {
       "addr": "open",
@@ -3795,10 +3759,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88705386": {
       "addr": "open",
@@ -3813,10 +3777,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-19",
-      "days_added": 53,
+      "days_added": 56,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "165340250": {
       "addr": "open",
@@ -3833,8 +3797,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-17",
-      "days_reduced": 116,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 119,
+      "_cached_date": "2026-07-14"
     },
     "174426440": {
       "addr": "open",
@@ -3851,8 +3815,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-21",
-      "days_reduced": 51,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 54,
+      "_cached_date": "2026-07-14"
     },
     "88750341": {
       "addr": "open",
@@ -3869,8 +3833,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-09",
-      "days_reduced": 2,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 5,
+      "_cached_date": "2026-07-14"
     },
     "88730889": {
       "addr": "open",
@@ -3887,8 +3851,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-04",
-      "days_reduced": 37,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 40,
+      "_cached_date": "2026-07-14"
     },
     "88722156": {
       "addr": "open",
@@ -3903,10 +3867,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174238691": {
       "addr": "open",
@@ -3923,8 +3887,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "170584247": {
       "addr": "open",
@@ -3941,8 +3905,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-20",
-      "days_reduced": 52,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 55,
+      "_cached_date": "2026-07-14"
     },
     "88711107": {
       "addr": "open",
@@ -3957,10 +3921,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87295506": {
       "addr": "open",
@@ -3977,8 +3941,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-20",
-      "days_reduced": 52,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 55,
+      "_cached_date": "2026-07-14"
     },
     "88706100": {
       "addr": "open",
@@ -3995,8 +3959,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "88702749": {
       "addr": "open",
@@ -4011,10 +3975,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-19",
-      "days_added": 53,
+      "days_added": 56,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88689123": {
       "addr": "open",
@@ -4031,8 +3995,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-05",
-      "days_reduced": 36,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 39,
+      "_cached_date": "2026-07-14"
     },
     "88666137": {
       "addr": "open",
@@ -4049,8 +4013,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-02",
-      "days_reduced": 39,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 42,
+      "_cached_date": "2026-07-14"
     },
     "174701186": {
       "addr": "open",
@@ -4067,8 +4031,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-18",
-      "days_reduced": 23,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 26,
+      "_cached_date": "2026-07-14"
     },
     "88597584": {
       "addr": "open",
@@ -4083,10 +4047,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-17",
-      "days_added": 55,
+      "days_added": 58,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88563105": {
       "addr": "open",
@@ -4101,10 +4065,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-15",
-      "days_added": 57,
+      "days_added": 60,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88557381": {
       "addr": "open",
@@ -4121,12 +4085,12 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-30",
-      "days_reduced": 11,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 14,
+      "_cached_date": "2026-07-14"
     },
     "88531152": {
       "addr": "open",
-      "price_str": "\u00a3345,000",
+      "price_str": "\u00a3325,000",
       "beds": 2,
       "propType": "apartment",
       "tenure": "Freehold",
@@ -4136,11 +4100,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": "2026-05-15",
-      "days_added": 57,
+      "added_date": null,
+      "days_added": null,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88503651": {
       "addr": "open",
@@ -4155,10 +4119,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-14",
-      "days_added": 58,
+      "days_added": 61,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88465326": {
       "addr": "open",
@@ -4175,8 +4139,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-12",
-      "days_reduced": 29,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 32,
+      "_cached_date": "2026-07-14"
     },
     "174659756": {
       "addr": "open",
@@ -4193,8 +4157,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-14",
-      "days_reduced": 58,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 61,
+      "_cached_date": "2026-07-14"
     },
     "172266824": {
       "addr": "open",
@@ -4211,8 +4175,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-08",
-      "days_reduced": 33,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 36,
+      "_cached_date": "2026-07-14"
     },
     "173375045": {
       "addr": "open",
@@ -4229,8 +4193,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-13",
-      "days_reduced": 59,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 62,
+      "_cached_date": "2026-07-14"
     },
     "88325454": {
       "addr": "open",
@@ -4247,8 +4211,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-03",
-      "days_reduced": 8,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 11,
+      "_cached_date": "2026-07-14"
     },
     "88317708": {
       "addr": "open",
@@ -4263,10 +4227,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-11",
-      "days_added": 61,
+      "days_added": 64,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88301442": {
       "addr": "open",
@@ -4283,26 +4247,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
-    },
-    "88287765": {
-      "addr": "open",
-      "price_str": "\u00a3285,000",
-      "beds": 2,
-      "propType": "maisonette",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
     },
     "88287276": {
       "addr": "open",
@@ -4317,10 +4263,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-11",
-      "days_added": 61,
+      "days_added": 64,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88251729": {
       "addr": "open",
@@ -4335,10 +4281,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88249947": {
       "addr": "open",
@@ -4353,10 +4299,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "164538290": {
       "addr": "open",
@@ -4373,8 +4319,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-08",
-      "days_reduced": 64,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 67,
+      "_cached_date": "2026-07-14"
     },
     "167227286": {
       "addr": "open",
@@ -4389,10 +4335,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173239553": {
       "addr": "open",
@@ -4409,8 +4355,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-08",
-      "days_reduced": 64,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 67,
+      "_cached_date": "2026-07-14"
     },
     "88180605": {
       "addr": "open",
@@ -4426,9 +4372,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "reduced_date": "2026-07-10",
+      "days_reduced": 4,
+      "_cached_date": "2026-07-14"
     },
     "174154985": {
       "addr": "open",
@@ -4445,8 +4391,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-07",
-      "days_reduced": 65,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 68,
+      "_cached_date": "2026-07-14"
     },
     "174106139": {
       "addr": "open",
@@ -4463,8 +4409,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-07",
-      "days_reduced": 65,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 68,
+      "_cached_date": "2026-07-14"
     },
     "173625227": {
       "addr": "open",
@@ -4481,26 +4427,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-07",
-      "days_reduced": 65,
-      "_cached_date": "2026-07-11"
-    },
-    "172280996": {
-      "addr": "open",
-      "price_str": "\u00a3255,000",
-      "beds": 2,
-      "propType": "flat",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM5 3NP",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-05-07",
-      "days_reduced": 65,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 68,
+      "_cached_date": "2026-07-14"
     },
     "173066030": {
       "addr": "open",
@@ -4517,8 +4445,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-07",
-      "days_reduced": 65,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 68,
+      "_cached_date": "2026-07-14"
     },
     "168422858": {
       "addr": "open",
@@ -4533,10 +4461,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-06",
-      "days_added": 66,
+      "days_added": 69,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174435890": {
       "addr": "open",
@@ -4553,8 +4481,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-06",
-      "days_reduced": 66,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 69,
+      "_cached_date": "2026-07-14"
     },
     "174618446": {
       "addr": "open",
@@ -4571,8 +4499,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-06",
-      "days_reduced": 66,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 69,
+      "_cached_date": "2026-07-14"
     },
     "166216385": {
       "addr": "open",
@@ -4589,8 +4517,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-06",
-      "days_reduced": 66,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 69,
+      "_cached_date": "2026-07-14"
     },
     "88064271": {
       "addr": "open",
@@ -4607,8 +4535,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-04",
-      "days_reduced": 37,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 40,
+      "_cached_date": "2026-07-14"
     },
     "164709791": {
       "addr": "open",
@@ -4625,26 +4553,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-05",
-      "days_reduced": 67,
-      "_cached_date": "2026-07-11"
-    },
-    "88050186": {
-      "addr": "open",
-      "price_str": "\u00a3315,000",
-      "beds": 2,
-      "propType": "ground floor flat",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": "2026-05-05",
-      "days_added": 67,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 70,
+      "_cached_date": "2026-07-14"
     },
     "173946101": {
       "addr": "open",
@@ -4661,8 +4571,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-01",
-      "days_reduced": 71,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 74,
+      "_cached_date": "2026-07-14"
     },
     "87964962": {
       "addr": "open",
@@ -4679,8 +4589,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "87953250": {
       "addr": "open",
@@ -4695,10 +4605,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-01",
-      "days_added": 71,
+      "days_added": 74,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174050114": {
       "addr": "open",
@@ -4715,8 +4625,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-01",
-      "days_reduced": 71,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 74,
+      "_cached_date": "2026-07-14"
     },
     "87945552": {
       "addr": "open",
@@ -4733,8 +4643,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-01",
-      "days_reduced": 40,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 43,
+      "_cached_date": "2026-07-14"
     },
     "87941280": {
       "addr": "open",
@@ -4751,8 +4661,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "161999081": {
       "addr": "open",
@@ -4769,8 +4679,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-16",
-      "days_reduced": 25,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 28,
+      "_cached_date": "2026-07-14"
     },
     "172284482": {
       "addr": "open",
@@ -4787,8 +4697,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-30",
-      "days_reduced": 72,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 75,
+      "_cached_date": "2026-07-14"
     },
     "173568119": {
       "addr": "open",
@@ -4805,8 +4715,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-30",
-      "days_reduced": 72,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 75,
+      "_cached_date": "2026-07-14"
     },
     "87630228": {
       "addr": "open",
@@ -4823,8 +4733,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-28",
-      "days_reduced": 74,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 77,
+      "_cached_date": "2026-07-14"
     },
     "171966359": {
       "addr": "open",
@@ -4841,8 +4751,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-28",
-      "days_reduced": 74,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 77,
+      "_cached_date": "2026-07-14"
     },
     "172075328": {
       "addr": "open",
@@ -4859,8 +4769,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-28",
-      "days_reduced": 74,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 77,
+      "_cached_date": "2026-07-14"
     },
     "87806637": {
       "addr": "open",
@@ -4877,8 +4787,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "169075283": {
       "addr": "open",
@@ -4893,10 +4803,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-04-27",
-      "days_added": 75,
+      "days_added": 78,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174869900": {
       "addr": "open",
@@ -4913,8 +4823,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-24",
-      "days_reduced": 17,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 20,
+      "_cached_date": "2026-07-14"
     },
     "174865616": {
       "addr": "open",
@@ -4929,10 +4839,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-24",
-      "days_added": 78,
+      "days_added": 81,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174856562": {
       "addr": "open",
@@ -4949,8 +4859,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-28",
-      "days_reduced": 44,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 47,
+      "_cached_date": "2026-07-14"
     },
     "173073752": {
       "addr": "open",
@@ -4967,8 +4877,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-23",
-      "days_reduced": 79,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 82,
+      "_cached_date": "2026-07-14"
     },
     "174825545": {
       "addr": "open",
@@ -4984,9 +4894,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "reduced_date": "2026-07-10",
+      "days_reduced": 4,
+      "_cached_date": "2026-07-14"
     },
     "173101238": {
       "addr": "open",
@@ -5003,8 +4913,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-09",
-      "days_reduced": 2,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 5,
+      "_cached_date": "2026-07-14"
     },
     "174766904": {
       "addr": "open",
@@ -5019,10 +4929,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-04-22",
-      "days_added": 80,
+      "days_added": 83,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172600598": {
       "addr": "open",
@@ -5039,8 +4949,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "174734198": {
       "addr": "open",
@@ -5055,10 +4965,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-21",
-      "days_added": 81,
+      "days_added": 84,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174733754": {
       "addr": "open",
@@ -5075,8 +4985,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-26",
-      "days_reduced": 46,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 49,
+      "_cached_date": "2026-07-14"
     },
     "174689708": {
       "addr": "open",
@@ -5093,8 +5003,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-01",
-      "days_reduced": 40,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 43,
+      "_cached_date": "2026-07-14"
     },
     "173320562": {
       "addr": "open",
@@ -5111,8 +5021,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-17",
-      "days_reduced": 85,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 88,
+      "_cached_date": "2026-07-14"
     },
     "173685863": {
       "addr": "open",
@@ -5129,8 +5039,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-17",
-      "days_reduced": 85,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 88,
+      "_cached_date": "2026-07-14"
     },
     "174581255": {
       "addr": "open",
@@ -5145,10 +5055,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-17",
-      "days_added": 85,
+      "days_added": 88,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172440368": {
       "addr": "open",
@@ -5165,8 +5075,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-17",
-      "days_reduced": 85,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 88,
+      "_cached_date": "2026-07-14"
     },
     "173564810": {
       "addr": "open",
@@ -5183,8 +5093,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-24",
-      "days_reduced": 17,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 20,
+      "_cached_date": "2026-07-14"
     },
     "174539417": {
       "addr": "open",
@@ -5201,8 +5111,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-04",
-      "days_reduced": 37,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 40,
+      "_cached_date": "2026-07-14"
     },
     "174476600": {
       "addr": "open",
@@ -5217,28 +5127,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-15",
-      "days_added": 87,
+      "days_added": 90,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
-    },
-    "164791784": {
-      "addr": "open",
-      "price_str": "\u00a3300,000",
-      "beds": 2,
-      "propType": "ground floor maisonette",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-04-14",
-      "days_reduced": 88,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173071793": {
       "addr": "open",
@@ -5255,8 +5147,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-13",
-      "days_reduced": 89,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 92,
+      "_cached_date": "2026-07-14"
     },
     "167368286": {
       "addr": "open",
@@ -5273,26 +5165,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-13",
-      "days_reduced": 89,
-      "_cached_date": "2026-07-11"
-    },
-    "171084524": {
-      "addr": "open",
-      "price_str": "\u00a3300,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Share of Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "Not listed",
-      "gr": "Not listed",
-      "added_date": "2026-04-13",
-      "days_added": 89,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 92,
+      "_cached_date": "2026-07-14"
     },
     "171837854": {
       "addr": "open",
@@ -5309,8 +5183,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "174357269": {
       "addr": "open",
@@ -5325,10 +5199,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-13",
-      "days_added": 89,
+      "days_added": 92,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174331925": {
       "addr": "open",
@@ -5345,8 +5219,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-04",
-      "days_reduced": 37,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 40,
+      "_cached_date": "2026-07-14"
     },
     "174279680": {
       "addr": "open",
@@ -5361,10 +5235,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-04-10",
-      "days_added": 92,
+      "days_added": 95,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174253280": {
       "addr": "open",
@@ -5381,8 +5255,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-22",
-      "days_reduced": 50,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 53,
+      "_cached_date": "2026-07-14"
     },
     "172904510": {
       "addr": "open",
@@ -5399,8 +5273,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-09",
-      "days_reduced": 93,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 96,
+      "_cached_date": "2026-07-14"
     },
     "172754537": {
       "addr": "open",
@@ -5417,8 +5291,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-08",
-      "days_reduced": 94,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 97,
+      "_cached_date": "2026-07-14"
     },
     "166323035": {
       "addr": "open",
@@ -5435,8 +5309,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-04-07",
-      "days_reduced": 95,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 98,
+      "_cached_date": "2026-07-14"
     },
     "174053849": {
       "addr": "open",
@@ -5451,10 +5325,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-02",
-      "days_added": 100,
+      "days_added": 103,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173974049": {
       "addr": "open",
@@ -5469,10 +5343,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-01",
-      "days_added": 101,
+      "days_added": 104,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173970062": {
       "addr": "open",
@@ -5489,8 +5363,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "172331357": {
       "addr": "open",
@@ -5507,8 +5381,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-09",
-      "days_reduced": 32,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 35,
+      "_cached_date": "2026-07-14"
     },
     "173354570": {
       "addr": "open",
@@ -5525,8 +5399,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-30",
-      "days_reduced": 103,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 106,
+      "_cached_date": "2026-07-14"
     },
     "173798126": {
       "addr": "open",
@@ -5541,10 +5415,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-27",
-      "days_added": 106,
+      "days_added": 109,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "172766705": {
       "addr": "open",
@@ -5561,8 +5435,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-26",
-      "days_reduced": 107,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 110,
+      "_cached_date": "2026-07-14"
     },
     "173729519": {
       "addr": "open",
@@ -5579,8 +5453,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-02",
-      "days_reduced": 9,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 12,
+      "_cached_date": "2026-07-14"
     },
     "172368572": {
       "addr": "open",
@@ -5597,8 +5471,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-26",
-      "days_reduced": 107,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 110,
+      "_cached_date": "2026-07-14"
     },
     "160422422": {
       "addr": "open",
@@ -5615,8 +5489,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-24",
-      "days_reduced": 109,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 112,
+      "_cached_date": "2026-07-14"
     },
     "167005208": {
       "addr": "open",
@@ -5633,8 +5507,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-23",
-      "days_reduced": 110,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 113,
+      "_cached_date": "2026-07-14"
     },
     "172405787": {
       "addr": "open",
@@ -5651,8 +5525,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-23",
-      "days_reduced": 110,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 113,
+      "_cached_date": "2026-07-14"
     },
     "173550623": {
       "addr": "open",
@@ -5669,8 +5543,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-28",
-      "days_reduced": 44,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 47,
+      "_cached_date": "2026-07-14"
     },
     "87735603": {
       "addr": "open",
@@ -5687,8 +5561,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-05",
-      "days_reduced": 36,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 39,
+      "_cached_date": "2026-07-14"
     },
     "170965454": {
       "addr": "open",
@@ -5705,8 +5579,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-20",
-      "days_reduced": 113,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 116,
+      "_cached_date": "2026-07-14"
     },
     "173032094": {
       "addr": "open",
@@ -5723,8 +5597,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-03-18",
-      "days_reduced": 115,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 118,
+      "_cached_date": "2026-07-14"
     },
     "169836680": {
       "addr": "open",
@@ -5741,8 +5615,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-16",
-      "days_reduced": 25,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 28,
+      "_cached_date": "2026-07-14"
     },
     "173340872": {
       "addr": "open",
@@ -5759,8 +5633,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-22",
-      "days_reduced": 50,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 53,
+      "_cached_date": "2026-07-14"
     },
     "173219381": {
       "addr": "open",
@@ -5777,8 +5651,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "87960645": {
       "addr": "open",
@@ -5793,28 +5667,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-03-11",
-      "days_added": 122,
+      "days_added": 125,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
-    },
-    "173142269": {
-      "addr": "open",
-      "price_str": "\u00a3375,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": "2026-03-11",
-      "days_added": 122,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173071679": {
       "addr": "open",
@@ -5831,8 +5687,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
     },
     "173066579": {
       "addr": "open",
@@ -5849,8 +5705,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-22",
-      "days_reduced": 19,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 22,
+      "_cached_date": "2026-07-14"
     },
     "172873169": {
       "addr": "open",
@@ -5867,8 +5723,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-17",
-      "days_reduced": 24,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 27,
+      "_cached_date": "2026-07-14"
     },
     "171731339": {
       "addr": "open",
@@ -5885,12 +5741,12 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-26",
-      "days_reduced": 135,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 138,
+      "_cached_date": "2026-07-14"
     },
     "172546286": {
       "addr": "open",
-      "price_str": "\u00a3340,000",
+      "price_str": "\u00a3325,000",
       "beds": 2,
       "propType": "flat",
       "tenure": "Freehold",
@@ -5902,9 +5758,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": "2026-06-03",
-      "days_reduced": 38,
-      "_cached_date": "2026-07-11"
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
     },
     "88641336": {
       "addr": "open",
@@ -5921,8 +5777,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-23",
-      "days_reduced": 138,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 141,
+      "_cached_date": "2026-07-14"
     },
     "172370894": {
       "addr": "open",
@@ -5937,10 +5793,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-02-18",
-      "days_added": 143,
+      "days_added": 146,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170617271": {
       "addr": "open",
@@ -5957,8 +5813,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-13",
-      "days_reduced": 148,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 151,
+      "_cached_date": "2026-07-14"
     },
     "170216459": {
       "addr": "open",
@@ -5975,8 +5831,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-02-12",
-      "days_reduced": 149,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 152,
+      "_cached_date": "2026-07-14"
     },
     "172086347": {
       "addr": "open",
@@ -5991,28 +5847,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-02-11",
-      "days_added": 150,
+      "days_added": 153,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
-    },
-    "171644186": {
-      "addr": "open",
-      "price_str": "\u00a3290,000",
-      "beds": 2,
-      "propType": "maisonette",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": "2026-01-30",
-      "days_added": 162,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171626441": {
       "addr": "open",
@@ -6027,10 +5865,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-01-30",
-      "days_added": 162,
+      "days_added": 165,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171602405": {
       "addr": "open",
@@ -6045,10 +5883,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-29",
-      "days_added": 163,
+      "days_added": 166,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171508283": {
       "addr": "open",
@@ -6063,10 +5901,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-01-27",
-      "days_added": 165,
+      "days_added": 168,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171109520": {
       "addr": "open",
@@ -6081,10 +5919,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-16",
-      "days_added": 176,
+      "days_added": 179,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "87403875": {
       "addr": "open",
@@ -6099,10 +5937,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-01-07",
-      "days_added": 185,
+      "days_added": 188,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170637155": {
       "addr": "open",
@@ -6117,10 +5955,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-12-26",
-      "days_added": 197,
+      "days_added": 200,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170622731": {
       "addr": "open",
@@ -6135,10 +5973,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2025-12-26",
-      "days_added": 197,
+      "days_added": 200,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170617256": {
       "addr": "open",
@@ -6155,8 +5993,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-02",
-      "days_reduced": 9,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 12,
+      "_cached_date": "2026-07-14"
     },
     "170617274": {
       "addr": "open",
@@ -6171,10 +6009,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-12-26",
-      "days_added": 197,
+      "days_added": 200,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "166635575": {
       "addr": "open",
@@ -6191,8 +6029,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-12-26",
-      "days_reduced": 197,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 200,
+      "_cached_date": "2026-07-14"
     },
     "87288144": {
       "addr": "open",
@@ -6209,8 +6047,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-18",
-      "days_reduced": 23,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 26,
+      "_cached_date": "2026-07-14"
     },
     "169882253": {
       "addr": "open",
@@ -6225,10 +6063,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-12-01",
-      "days_added": 222,
+      "days_added": 225,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171183737": {
       "addr": "open",
@@ -6245,8 +6083,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-11-13",
-      "days_reduced": 240,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 243,
+      "_cached_date": "2026-07-14"
     },
     "169017659": {
       "addr": "open",
@@ -6261,10 +6099,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-11-05",
-      "days_added": 248,
+      "days_added": 251,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "167001089": {
       "addr": "open",
@@ -6281,8 +6119,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-11-01",
-      "days_reduced": 252,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 255,
+      "_cached_date": "2026-07-14"
     },
     "164007080": {
       "addr": "open",
@@ -6299,8 +6137,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-10-21",
-      "days_reduced": 263,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 266,
+      "_cached_date": "2026-07-14"
     },
     "158452586": {
       "addr": "open",
@@ -6317,8 +6155,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-10-14",
-      "days_reduced": 270,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 273,
+      "_cached_date": "2026-07-14"
     },
     "168171869": {
       "addr": "open",
@@ -6335,8 +6173,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-10",
-      "days_reduced": 31,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 34,
+      "_cached_date": "2026-07-14"
     },
     "167940212": {
       "addr": "open",
@@ -6351,10 +6189,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-10-07",
-      "days_added": 277,
+      "days_added": 280,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "165169664": {
       "addr": "open",
@@ -6371,8 +6209,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-21",
-      "days_reduced": 51,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 54,
+      "_cached_date": "2026-07-14"
     },
     "163271021": {
       "addr": "open",
@@ -6389,8 +6227,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-09-11",
-      "days_reduced": 303,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 306,
+      "_cached_date": "2026-07-14"
     },
     "163048610": {
       "addr": "open",
@@ -6407,8 +6245,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-09-05",
-      "days_reduced": 309,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 312,
+      "_cached_date": "2026-07-14"
     },
     "166325252": {
       "addr": "open",
@@ -6423,10 +6261,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-08-28",
-      "days_added": 317,
+      "days_added": 320,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "164597552": {
       "addr": "open",
@@ -6443,12 +6281,12 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-08-12",
-      "days_reduced": 333,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 336,
+      "_cached_date": "2026-07-14"
     },
     "163553534": {
       "addr": "open",
-      "price_str": "\u00a3375,000",
+      "price_str": "\u00a3350,000",
       "beds": 2,
       "propType": "apartment",
       "tenure": "Freehold",
@@ -6460,9 +6298,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "reduced_date": "2026-07-11",
+      "days_reduced": 3,
+      "_cached_date": "2026-07-14"
     },
     "157881035": {
       "addr": "open",
@@ -6479,8 +6317,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2025-03-18",
-      "days_reduced": 480,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 483,
+      "_cached_date": "2026-07-14"
     },
     "165051992": {
       "addr": "open",
@@ -6495,10 +6333,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2024-09-25",
-      "days_added": 654,
+      "days_added": 657,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88745322": {
       "addr": "open",
@@ -6513,10 +6351,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-20",
-      "days_added": 52,
+      "days_added": 55,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88237749": {
       "addr": "open",
@@ -6531,10 +6369,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88233243": {
       "addr": "open",
@@ -6549,10 +6387,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-08",
-      "days_added": 64,
+      "days_added": 67,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88819818": {
       "addr": "open",
@@ -6567,10 +6405,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-22",
-      "days_added": 50,
+      "days_added": 53,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88791261": {
       "addr": "open",
@@ -6587,8 +6425,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "169349150": {
       "addr": "open",
@@ -6605,8 +6443,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-22",
-      "days_reduced": 50,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 53,
+      "_cached_date": "2026-07-14"
     },
     "170750117": {
       "addr": "open",
@@ -6621,10 +6459,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-22",
-      "days_added": 50,
+      "days_added": 53,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89414769": {
       "addr": "open",
@@ -6641,8 +6479,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-08",
-      "days_reduced": 33,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 36,
+      "_cached_date": "2026-07-14"
     },
     "89673864": {
       "addr": "open",
@@ -6657,10 +6495,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-13",
-      "days_added": 28,
+      "days_added": 31,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89655051": {
       "addr": "open",
@@ -6677,8 +6515,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-09",
-      "days_reduced": 2,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 5,
+      "_cached_date": "2026-07-14"
     },
     "89643126": {
       "addr": "open",
@@ -6693,10 +6531,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-12",
-      "days_added": 29,
+      "days_added": 32,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89619741": {
       "addr": "open",
@@ -6711,10 +6549,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-12",
-      "days_added": 29,
+      "days_added": 32,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89609118": {
       "addr": "open",
@@ -6729,10 +6567,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89608155": {
       "addr": "open",
@@ -6747,10 +6585,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89608146": {
       "addr": "open",
@@ -6765,10 +6603,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89603940": {
       "addr": "open",
@@ -6783,10 +6621,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89584005": {
       "addr": "open",
@@ -6801,10 +6639,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89577606": {
       "addr": "open",
@@ -6821,8 +6659,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "89573958": {
       "addr": "open",
@@ -6837,10 +6675,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89537037": {
       "addr": "open",
@@ -6857,8 +6695,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-30",
-      "days_reduced": 11,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 14,
+      "_cached_date": "2026-07-14"
     },
     "89518344": {
       "addr": "open",
@@ -6873,10 +6711,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-10",
-      "days_added": 31,
+      "days_added": 34,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89502078": {
       "addr": "open",
@@ -6891,10 +6729,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-09",
-      "days_added": 32,
+      "days_added": 35,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89473227": {
       "addr": "open",
@@ -6911,8 +6749,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-25",
-      "days_reduced": 16,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 19,
+      "_cached_date": "2026-07-14"
     },
     "89469060": {
       "addr": "open",
@@ -6927,10 +6765,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-09",
-      "days_added": 32,
+      "days_added": 35,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89398764": {
       "addr": "open",
@@ -6945,10 +6783,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-06",
-      "days_added": 35,
+      "days_added": 38,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89355891": {
       "addr": "open",
@@ -6965,8 +6803,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-05",
-      "days_reduced": 36,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 39,
+      "_cached_date": "2026-07-14"
     },
     "89329644": {
       "addr": "open",
@@ -6981,10 +6819,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-05",
-      "days_added": 36,
+      "days_added": 39,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89317872": {
       "addr": "open",
@@ -7001,8 +6839,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
     },
     "89302506": {
       "addr": "open",
@@ -7019,26 +6857,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
-    },
-    "163444148": {
-      "addr": "open",
-      "price_str": "\u00a3290,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Share of Freehold",
-      "lease_years": null,
-      "postcode": "SM2 5AD",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "Not listed",
-      "gr": "Not listed",
-      "added_date": "2026-06-04",
-      "days_added": 37,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "89282106": {
       "addr": "open",
@@ -7053,14 +6873,14 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-04",
-      "days_added": 37,
+      "days_added": 40,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89234934": {
       "addr": "open",
-      "price_str": "\u00a3290,000",
+      "price_str": "\u00a3280,000",
       "beds": 2,
       "propType": "apartment",
       "tenure": "Freehold",
@@ -7070,11 +6890,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": "2026-06-03",
-      "days_added": 38,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-07-11",
+      "days_reduced": 3,
+      "_cached_date": "2026-07-14"
     },
     "89230686": {
       "addr": "open",
@@ -7089,10 +6909,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-03",
-      "days_added": 38,
+      "days_added": 41,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89227617": {
       "addr": "open",
@@ -7107,10 +6927,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-03",
-      "days_added": 38,
+      "days_added": 41,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89214240": {
       "addr": "open",
@@ -7125,14 +6945,14 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-02",
-      "days_added": 39,
+      "days_added": 42,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89207250": {
       "addr": "open",
-      "price_str": "\u00a3325,000",
+      "price_str": "\u00a3305,000",
       "beds": 2,
       "propType": "flat",
       "tenure": "Freehold",
@@ -7142,11 +6962,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": "2026-06-02",
-      "days_added": 39,
+      "added_date": null,
+      "days_added": null,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89186040": {
       "addr": "open",
@@ -7161,10 +6981,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-02",
-      "days_added": 39,
+      "days_added": 42,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89158854": {
       "addr": "open",
@@ -7179,10 +6999,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89144346": {
       "addr": "open",
@@ -7197,10 +7017,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89150331": {
       "addr": "open",
@@ -7215,10 +7035,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89141364": {
       "addr": "open",
@@ -7233,10 +7053,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89139213": {
       "addr": "open",
@@ -7251,10 +7071,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89136810": {
       "addr": "open",
@@ -7269,10 +7089,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89109942": {
       "addr": "open",
@@ -7287,10 +7107,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-30",
-      "days_added": 42,
+      "days_added": 45,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "160960142": {
       "addr": "open",
@@ -7307,8 +7127,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-08",
-      "days_reduced": 3,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 6,
+      "_cached_date": "2026-07-14"
     },
     "89073009": {
       "addr": "open",
@@ -7325,8 +7145,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "166753019": {
       "addr": "open",
@@ -7341,10 +7161,10 @@
       "sc": "\u00a31,575 per annum",
       "gr": "Not listed",
       "added_date": "2026-05-29",
-      "days_added": 43,
+      "days_added": 46,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89055864": {
       "addr": "open",
@@ -7360,9 +7180,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "reduced_date": "2026-07-10",
+      "days_reduced": 4,
+      "_cached_date": "2026-07-14"
     },
     "88994184": {
       "addr": "open",
@@ -7377,10 +7197,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-27",
-      "days_added": 45,
+      "days_added": 48,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88961739": {
       "addr": "open",
@@ -7395,10 +7215,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-27",
-      "days_added": 45,
+      "days_added": 48,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88942647": {
       "addr": "open",
@@ -7413,10 +7233,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-26",
-      "days_added": 46,
+      "days_added": 49,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88781685": {
       "addr": "open",
@@ -7433,8 +7253,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-16",
-      "days_reduced": 25,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 28,
+      "_cached_date": "2026-07-14"
     },
     "87776571": {
       "addr": "open",
@@ -7449,10 +7269,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-04-28",
-      "days_added": 74,
+      "days_added": 77,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174417650": {
       "addr": "open",
@@ -7467,46 +7287,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-14",
-      "days_added": 88,
+      "days_added": 91,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
-    },
-    "173975180": {
-      "addr": "open",
-      "price_str": "\u00a3375,000",
-      "beds": 3,
-      "propType": "flat",
-      "tenure": "Share of Freehold",
-      "lease_years": null,
-      "postcode": "SM2 5BN",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "Not listed",
-      "gr": "Not listed",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-06-19",
-      "days_reduced": 22,
-      "_cached_date": "2026-07-11"
-    },
-    "164811839": {
-      "addr": "open",
-      "price_str": "\u00a3340,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "SM3 8RW",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": "2026-06-23",
-      "days_reduced": 18,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89666505": {
       "addr": "open",
@@ -7521,10 +7305,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-13",
-      "days_added": 28,
+      "days_added": 31,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89620083": {
       "addr": "open",
@@ -7541,8 +7325,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "89612967": {
       "addr": "open",
@@ -7557,10 +7341,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89606040": {
       "addr": "open",
@@ -7575,10 +7359,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89602677": {
       "addr": "open",
@@ -7593,10 +7377,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89598129": {
       "addr": "open",
@@ -7611,10 +7395,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89578203": {
       "addr": "open",
@@ -7629,10 +7413,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-11",
-      "days_added": 30,
+      "days_added": 33,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89561541": {
       "addr": "open",
@@ -7647,10 +7431,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-10",
-      "days_added": 31,
+      "days_added": 34,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89558019": {
       "addr": "open",
@@ -7665,10 +7449,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-10",
-      "days_added": 31,
+      "days_added": 34,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89483310": {
       "addr": "open",
@@ -7683,10 +7467,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-09",
-      "days_added": 32,
+      "days_added": 35,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89438139": {
       "addr": "open",
@@ -7701,10 +7485,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-08",
-      "days_added": 33,
+      "days_added": 36,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89426841": {
       "addr": "open",
@@ -7719,10 +7503,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-08",
-      "days_added": 33,
+      "days_added": 36,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "170629196": {
       "addr": "open",
@@ -7737,10 +7521,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-08",
-      "days_added": 33,
+      "days_added": 36,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89401629": {
       "addr": "open",
@@ -7755,10 +7539,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-06",
-      "days_added": 35,
+      "days_added": 38,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "158591645": {
       "addr": "open",
@@ -7775,8 +7559,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-06",
-      "days_reduced": 35,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 38,
+      "_cached_date": "2026-07-14"
     },
     "89360142": {
       "addr": "open",
@@ -7791,10 +7575,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-05",
-      "days_added": 36,
+      "days_added": 39,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89353959": {
       "addr": "open",
@@ -7809,10 +7593,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-05",
-      "days_added": 36,
+      "days_added": 39,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173536523": {
       "addr": "open",
@@ -7829,8 +7613,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-05",
-      "days_reduced": 36,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 39,
+      "_cached_date": "2026-07-14"
     },
     "89334180": {
       "addr": "open",
@@ -7845,10 +7629,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-05",
-      "days_added": 36,
+      "days_added": 39,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89316279": {
       "addr": "open",
@@ -7863,10 +7647,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-04",
-      "days_added": 37,
+      "days_added": 40,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89278422": {
       "addr": "open",
@@ -7881,10 +7665,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-04",
-      "days_added": 37,
+      "days_added": 40,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89278335": {
       "addr": "open",
@@ -7899,10 +7683,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-04",
-      "days_added": 37,
+      "days_added": 40,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89277189": {
       "addr": "open",
@@ -7917,10 +7701,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-04",
-      "days_added": 37,
+      "days_added": 40,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "154927076": {
       "addr": "open",
@@ -7935,10 +7719,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-02",
-      "days_added": 39,
+      "days_added": 42,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89189706": {
       "addr": "open",
@@ -7953,10 +7737,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-02",
-      "days_added": 39,
+      "days_added": 42,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89177616": {
       "addr": "open",
@@ -7973,8 +7757,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-03",
-      "days_reduced": 8,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 11,
+      "_cached_date": "2026-07-14"
     },
     "89173665": {
       "addr": "open",
@@ -7989,10 +7773,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-02",
-      "days_added": 39,
+      "days_added": 42,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89172282": {
       "addr": "open",
@@ -8007,10 +7791,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-02",
-      "days_added": 39,
+      "days_added": 42,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89156997": {
       "addr": "open",
@@ -8025,10 +7809,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89083095": {
       "addr": "open",
@@ -8043,10 +7827,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-01",
-      "days_added": 40,
+      "days_added": 43,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89092983": {
       "addr": "open",
@@ -8061,10 +7845,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-29",
-      "days_added": 43,
+      "days_added": 46,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89088480": {
       "addr": "open",
@@ -8081,8 +7865,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-30",
-      "days_reduced": 11,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 14,
+      "_cached_date": "2026-07-14"
     },
     "89081310": {
       "addr": "open",
@@ -8097,10 +7881,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-29",
-      "days_added": 43,
+      "days_added": 46,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174826541": {
       "addr": "open",
@@ -8117,8 +7901,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-28",
-      "days_reduced": 44,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 47,
+      "_cached_date": "2026-07-14"
     },
     "89027436": {
       "addr": "open",
@@ -8135,8 +7919,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "89023497": {
       "addr": "open",
@@ -8151,10 +7935,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-28",
-      "days_added": 44,
+      "days_added": 47,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88987062": {
       "addr": "open",
@@ -8171,8 +7955,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "88977351": {
       "addr": "open",
@@ -8187,10 +7971,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-27",
-      "days_added": 45,
+      "days_added": 48,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88973946": {
       "addr": "open",
@@ -8205,10 +7989,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-27",
-      "days_added": 45,
+      "days_added": 48,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88932633": {
       "addr": "open",
@@ -8223,10 +8007,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-26",
-      "days_added": 46,
+      "days_added": 49,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88927116": {
       "addr": "open",
@@ -8241,10 +8025,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-26",
-      "days_added": 46,
+      "days_added": 49,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88921683": {
       "addr": "open",
@@ -8259,10 +8043,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-26",
-      "days_added": 46,
+      "days_added": 49,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88873170": {
       "addr": "open",
@@ -8277,10 +8061,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-05-23",
-      "days_added": 49,
+      "days_added": 52,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89542449": {
       "addr": "open",
@@ -8297,8 +8081,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-05-21",
-      "days_reduced": 51,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 54,
+      "_cached_date": "2026-07-14"
     },
     "89377623": {
       "addr": "open",
@@ -8313,10 +8097,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-26",
-      "days_added": 107,
+      "days_added": 110,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173749685": {
       "addr": "open",
@@ -8331,14 +8115,14 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-03-26",
-      "days_added": 107,
+      "days_added": 110,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89200152": {
       "addr": "open",
-      "price_str": "\u00a3350,000",
+      "price_str": "\u00a3325,000",
       "beds": 3,
       "propType": "terraced house",
       "tenure": "Freehold",
@@ -8348,11 +8132,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": "2026-02-02",
-      "days_added": 159,
+      "added_date": null,
+      "days_added": null,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88962939": {
       "addr": "open",
@@ -8369,8 +8153,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-01-26",
-      "days_reduced": 166,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 169,
+      "_cached_date": "2026-07-14"
     },
     "89081511": {
       "addr": "open",
@@ -8387,8 +8171,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-15",
-      "days_reduced": 26,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 29,
+      "_cached_date": "2026-07-14"
     },
     "89655708": {
       "addr": "open",
@@ -8405,8 +8189,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-24",
-      "days_reduced": 17,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 20,
+      "_cached_date": "2026-07-14"
     },
     "89242815": {
       "addr": "open",
@@ -8421,10 +8205,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2025-09-18",
-      "days_added": 296,
+      "days_added": 299,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "169432844": {
       "addr": "open",
@@ -8691,10 +8475,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-16",
-      "days_added": 25,
+      "days_added": 28,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89767116": {
       "addr": "open",
@@ -8709,10 +8493,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-16",
-      "days_added": 25,
+      "days_added": 28,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89765949": {
       "addr": "open",
@@ -8729,8 +8513,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-16",
-      "days_reduced": 25,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 28,
+      "_cached_date": "2026-07-14"
     },
     "89808018": {
       "addr": "open",
@@ -8745,10 +8529,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-17",
-      "days_added": 24,
+      "days_added": 27,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89771220": {
       "addr": "open",
@@ -8763,10 +8547,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-16",
-      "days_added": 25,
+      "days_added": 28,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89768409": {
       "addr": "open",
@@ -8781,10 +8565,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-16",
-      "days_added": 25,
+      "days_added": 28,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89768865": {
       "addr": "open",
@@ -8799,10 +8583,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-29",
-      "days_added": 12,
+      "days_added": 15,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89863326": {
       "addr": "open",
@@ -9038,24 +8822,6 @@
       "days_reduced": null,
       "_cached_date": "2026-07-13"
     },
-    "89891862": {
-      "addr": "open",
-      "price_str": "\u00a3300,000",
-      "beds": 3,
-      "propType": "flat",
-      "tenure": "Freehold",
-      "lease_years": null,
-      "postcode": "CR0 1BJ",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "N/A (Freehold)",
-      "gr": "N/A",
-      "added_date": "2026-06-18",
-      "days_added": 25,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-13"
-    },
     "89877690": {
       "addr": "open",
       "price_str": "\u00a3325,000",
@@ -9087,10 +8853,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-20",
-      "days_added": 21,
+      "days_added": 24,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "173522504": {
       "addr": "open",
@@ -9105,10 +8871,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-22",
-      "days_added": 19,
+      "days_added": 22,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89939859": {
       "addr": "open",
@@ -9123,10 +8889,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-19",
-      "days_added": 22,
+      "days_added": 25,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89927955": {
       "addr": "open",
@@ -9143,8 +8909,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-06",
-      "days_reduced": 5,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 8,
+      "_cached_date": "2026-07-14"
     },
     "89923083": {
       "addr": "open",
@@ -9159,10 +8925,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-19",
-      "days_added": 22,
+      "days_added": 25,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89922615": {
       "addr": "open",
@@ -9177,10 +8943,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-19",
-      "days_added": 22,
+      "days_added": 25,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89955786": {
       "addr": "open",
@@ -9375,10 +9141,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-23",
-      "days_added": 18,
+      "days_added": 21,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90015198": {
       "addr": "open",
@@ -9393,10 +9159,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-23",
-      "days_added": 18,
+      "days_added": 21,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90012054": {
       "addr": "open",
@@ -9411,10 +9177,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-23",
-      "days_added": 18,
+      "days_added": 21,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "171444347": {
       "addr": "open",
@@ -9429,10 +9195,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-23",
-      "days_added": 18,
+      "days_added": 21,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90007893": {
       "addr": "open",
@@ -9447,10 +9213,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-22",
-      "days_added": 19,
+      "days_added": 22,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90026094": {
       "addr": "open",
@@ -9465,10 +9231,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-05-12",
-      "days_added": 60,
+      "days_added": 63,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90067599": {
       "addr": "open",
@@ -9879,10 +9645,10 @@
       "sc": "\u00a31,520",
       "gr": "Not listed",
       "added_date": "2026-06-25",
-      "days_added": 16,
+      "days_added": 19,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90175077": {
       "addr": "open",
@@ -9897,10 +9663,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-26",
-      "days_added": 15,
+      "days_added": 18,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90171510": {
       "addr": "open",
@@ -9915,10 +9681,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-26",
-      "days_added": 15,
+      "days_added": 18,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90160899": {
       "addr": "open",
@@ -9933,10 +9699,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-06-25",
-      "days_added": 16,
+      "days_added": 19,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90155127": {
       "addr": "open",
@@ -9951,10 +9717,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-25",
-      "days_added": 16,
+      "days_added": 19,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90147156": {
       "addr": "open",
@@ -9969,14 +9735,14 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-25",
-      "days_added": 16,
+      "days_added": 19,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90137574": {
       "addr": "open",
-      "price_str": "\u00a3325,000",
+      "price_str": "\u00a3300,000",
       "beds": 2,
       "propType": "ground floor flat",
       "tenure": "Share of Freehold",
@@ -9986,11 +9752,11 @@
       "prop_lon": null,
       "sc": "Not listed",
       "gr": "Not listed",
-      "added_date": "2026-06-25",
-      "days_added": 16,
+      "added_date": null,
+      "days_added": null,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90211170": {
       "addr": "open",
@@ -10059,10 +9825,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-29",
-      "days_added": 12,
+      "days_added": 15,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90255873": {
       "addr": "open",
@@ -10079,8 +9845,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-29",
-      "days_reduced": 12,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 15,
+      "_cached_date": "2026-07-14"
     },
     "90241383": {
       "addr": "open",
@@ -10095,10 +9861,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-29",
-      "days_added": 12,
+      "days_added": 15,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90196596": {
       "addr": "open",
@@ -10115,8 +9881,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "90260280": {
       "addr": "open",
@@ -10131,10 +9897,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-29",
-      "days_added": 12,
+      "days_added": 15,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "88281516": {
       "addr": "open",
@@ -10151,8 +9917,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-06-28",
-      "days_reduced": 13,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 16,
+      "_cached_date": "2026-07-14"
     },
     "167461601": {
       "addr": "open",
@@ -10725,10 +10491,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-02",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90398751": {
       "addr": "open",
@@ -10743,10 +10509,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-02",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90395364": {
       "addr": "open",
@@ -10761,10 +10527,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-02",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90389115": {
       "addr": "open",
@@ -10779,10 +10545,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-02",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90382653": {
       "addr": "open",
@@ -10797,10 +10563,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90382380": {
       "addr": "open",
@@ -10815,10 +10581,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90364569": {
       "addr": "open",
@@ -10833,10 +10599,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90356568": {
       "addr": "open",
@@ -10851,10 +10617,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90401082": {
       "addr": "open",
@@ -10869,10 +10635,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-02",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90384711": {
       "addr": "open",
@@ -10887,10 +10653,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-02",
-      "days_added": 9,
+      "days_added": 12,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90382377": {
       "addr": "open",
@@ -10905,10 +10671,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90367818": {
       "addr": "open",
@@ -10923,10 +10689,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90367635": {
       "addr": "open",
@@ -10941,10 +10707,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-01",
-      "days_added": 10,
+      "days_added": 13,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90365352": {
       "addr": "open",
@@ -10959,10 +10725,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-06-12",
-      "days_added": 29,
+      "days_added": 32,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "174459833": {
       "addr": "open",
@@ -10977,10 +10743,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-04-15",
-      "days_added": 87,
+      "days_added": 90,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90450273": {
       "addr": "open",
@@ -11175,10 +10941,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-07",
-      "days_added": 4,
+      "days_added": 7,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90524871": {
       "addr": "open",
@@ -11445,10 +11211,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-07-08",
-      "days_added": 3,
+      "days_added": 6,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90596058": {
       "addr": "open",
@@ -11463,10 +11229,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-07",
-      "days_added": 4,
+      "days_added": 7,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90586878": {
       "addr": "open",
@@ -11483,8 +11249,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-08",
-      "days_reduced": 3,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 6,
+      "_cached_date": "2026-07-14"
     },
     "90582039": {
       "addr": "open",
@@ -11499,10 +11265,10 @@
       "sc": "Not listed",
       "gr": "Not listed",
       "added_date": "2026-07-08",
-      "days_added": 3,
+      "days_added": 6,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90623364": {
       "addr": "open",
@@ -11517,10 +11283,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-08",
-      "days_added": 3,
+      "days_added": 6,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89320932": {
       "addr": "open",
@@ -11537,8 +11303,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-08",
-      "days_reduced": 3,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 6,
+      "_cached_date": "2026-07-14"
     },
     "170798915": {
       "addr": "open",
@@ -11555,8 +11321,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "90588708": {
       "addr": "open",
@@ -11571,10 +11337,10 @@
       "sc": "N/A (Freehold)",
       "gr": "N/A",
       "added_date": "2026-07-07",
-      "days_added": 4,
+      "days_added": 7,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "89718009": {
       "addr": "open",
@@ -11591,8 +11357,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "174163016": {
       "addr": "open",
@@ -11609,8 +11375,8 @@
       "added_date": null,
       "days_added": null,
       "reduced_date": "2026-07-07",
-      "days_reduced": 4,
-      "_cached_date": "2026-07-11"
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
     },
     "90703365": {
       "addr": "open",
@@ -11948,11 +11714,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-07-10",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90740625": {
       "addr": "open",
@@ -11966,29 +11732,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-07-10",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
-    },
-    "90738771": {
-      "addr": "open",
-      "price_str": "\u00a3380,000",
-      "beds": 2,
-      "propType": "apartment",
-      "tenure": "Share of Freehold",
-      "lease_years": null,
-      "postcode": "SM4 5HP",
-      "prop_lat": null,
-      "prop_lon": null,
-      "sc": "Not listed",
-      "gr": "Not listed",
-      "added_date": null,
-      "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90732747": {
       "addr": "open",
@@ -12002,11 +11750,11 @@
       "prop_lon": null,
       "sc": "Not listed",
       "gr": "Not listed",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-07-10",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90767235": {
       "addr": "open",
@@ -12020,11 +11768,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-07-11",
+      "days_added": 3,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90749544": {
       "addr": "open",
@@ -12038,11 +11786,11 @@
       "prop_lon": null,
       "sc": "Not listed",
       "gr": "Not listed",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-07-10",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90749061": {
       "addr": "open",
@@ -12056,11 +11804,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-07-10",
+      "days_added": 4,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-07-11"
+      "_cached_date": "2026-07-14"
     },
     "90780198": {
       "addr": "open",
@@ -12151,6 +11899,312 @@
       "reduced_date": null,
       "days_reduced": null,
       "_cached_date": "2026-07-13"
+    },
+    "90847278": {
+      "addr": "open",
+      "price_str": "\u00a3231,500",
+      "beds": 2,
+      "propType": "ground floor flat",
+      "tenure": "Share of Freehold",
+      "lease_years": null,
+      "postcode": "BN11 1TF",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "Not listed",
+      "gr": "Not listed",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90846849": {
+      "addr": "open",
+      "price_str": "\u00a3350,000",
+      "beds": 2,
+      "propType": "ground floor flat",
+      "tenure": "Share of Freehold",
+      "lease_years": null,
+      "postcode": "SM2 5BQ",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "Not listed",
+      "gr": "Not listed",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90826827": {
+      "addr": "open",
+      "price_str": "\u00a3300,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM5 3LB",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90818580": {
+      "addr": "open",
+      "price_str": "\u00a3375,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM7 2ED",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90808518": {
+      "addr": "open",
+      "price_str": "\u00a3325,000",
+      "beds": 2,
+      "propType": "maisonette",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM5 3AG",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90808728": {
+      "addr": "open",
+      "price_str": "\u00a3285,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM3 8RW",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-07-07",
+      "days_reduced": 7,
+      "_cached_date": "2026-07-14"
+    },
+    "90808776": {
+      "addr": "open",
+      "price_str": "\u00a3340,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM3 8RW",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-06-23",
+      "days_reduced": 21,
+      "_cached_date": "2026-07-14"
+    },
+    "90807801": {
+      "addr": "open",
+      "price_str": "\u00a3255,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM5 3NP",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-05-07",
+      "days_reduced": 68,
+      "_cached_date": "2026-07-14"
+    },
+    "90808560": {
+      "addr": "open",
+      "price_str": "\u00a3315,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM3 8RW",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": "2026-05-05",
+      "days_added": 70,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90808599": {
+      "addr": "open",
+      "price_str": "\u00a3300,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM3 8RW",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-04-14",
+      "days_reduced": 91,
+      "_cached_date": "2026-07-14"
+    },
+    "172631150": {
+      "addr": "open",
+      "price_str": "\u00a3350,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "W10 6TR",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": "2026-03-29",
+      "days_reduced": 107,
+      "_cached_date": "2026-07-14"
+    },
+    "90808548": {
+      "addr": "open",
+      "price_str": "\u00a3375,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM3 8RW",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": "2026-03-11",
+      "days_added": 125,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90839559": {
+      "addr": "open",
+      "price_str": "\u00a3325,000",
+      "beds": 2,
+      "propType": "maisonette",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "CR6 9NS",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90831891": {
+      "addr": "open",
+      "price_str": "\u00a3275,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "CR2 6EQ",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90817206": {
+      "addr": "open",
+      "price_str": "\u00a3275,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "CR3 6LB",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "90812454": {
+      "addr": "open",
+      "price_str": "\u00a390,000",
+      "beds": 2,
+      "propType": "flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "CR8 2BL",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
+    },
+    "89451987": {
+      "addr": "open",
+      "price_str": "\u00a3390,000",
+      "beds": 3,
+      "propType": "terraced house",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM5 3LB",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-07-14"
     }
   }
 }
