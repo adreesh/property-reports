@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-01 15:49 UTC",
-  "count": 714,
+  "date": "2026-10-02 14:50 UTC",
+  "count": 720,
   "properties": {
     "174312815": {
       "addr": "open",
@@ -3310,9 +3310,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-09-29"
+      "reduced_date": "2026-09-29",
+      "days_reduced": 3,
+      "_cached_date": "2026-10-02"
     },
     "89976030": {
       "addr": "open",
@@ -6766,9 +6766,9 @@
       "gr": "Not listed",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-09-29"
+      "reduced_date": "2026-09-29",
+      "days_reduced": 3,
+      "_cached_date": "2026-10-02"
     },
     "91649421": {
       "addr": "open",
@@ -7810,9 +7810,9 @@
       "gr": "N/A",
       "added_date": null,
       "days_added": null,
-      "reduced_date": null,
-      "days_reduced": null,
-      "_cached_date": "2026-09-29"
+      "reduced_date": "2026-09-29",
+      "days_reduced": 3,
+      "_cached_date": "2026-10-02"
     },
     "92129544": {
       "addr": "open",
@@ -12128,11 +12128,11 @@
       "prop_lon": null,
       "sc": "N/A (Freehold)",
       "gr": "N/A",
-      "added_date": null,
-      "days_added": null,
+      "added_date": "2026-09-29",
+      "days_added": 3,
       "reduced_date": null,
       "days_reduced": null,
-      "_cached_date": "2026-09-29"
+      "_cached_date": "2026-10-02"
     },
     "93694179": {
       "addr": "open",
@@ -12853,6 +12853,114 @@
       "reduced_date": null,
       "days_reduced": null,
       "_cached_date": "2026-10-01"
+    },
+    "93855024": {
+      "addr": "open",
+      "price_str": "\u00a3330,000",
+      "beds": 2,
+      "propType": "penthouse",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM1 4SY",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-10-02"
+    },
+    "170617268": {
+      "addr": "open",
+      "price_str": "\u00a3400,000",
+      "beds": 3,
+      "propType": "terraced house",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM1 1HF",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-10-02"
+    },
+    "92693082": {
+      "addr": "open",
+      "price_str": "\u00a3400,000",
+      "beds": 2,
+      "propType": "ground floor flat",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM2 5BQ",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-10-02"
+    },
+    "93822543": {
+      "addr": "open",
+      "price_str": "\u00a3325,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "KT17 2JE",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-10-02"
+    },
+    "93820089": {
+      "addr": "open",
+      "price_str": "\u00a3325,000",
+      "beds": 2,
+      "propType": "apartment",
+      "tenure": "Freehold",
+      "lease_years": null,
+      "postcode": "SM2 5AD",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "N/A (Freehold)",
+      "gr": "N/A",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-10-02"
+    },
+    "21324832": {
+      "addr": "Rightmove.co.uk",
+      "price_str": "",
+      "beds": 0,
+      "propType": "",
+      "tenure": "\u2014",
+      "lease_years": null,
+      "postcode": "",
+      "prop_lat": null,
+      "prop_lon": null,
+      "sc": "Not listed",
+      "gr": "Not listed",
+      "added_date": null,
+      "days_added": null,
+      "reduced_date": null,
+      "days_reduced": null,
+      "_cached_date": "2026-10-02"
     }
   }
 }
